@@ -1,6 +1,6 @@
 {
-  "synced_at": "2026-10-12T12:02:58.804786+00:00",
-  "count": 56,
+  "synced_at": "2026-10-12T16:02:18.947135+00:00",
+  "count": 55,
   "leads": [
     {
       "id": 60,
@@ -45,10 +45,10 @@
       ],
       "activities": [
         {
-          "summary": "To-Do",
+          "summary": "(Semi) Première approche",
           "note": false,
           "type": "To-Do",
-          "date_deadline": "2026-10-06",
+          "date_deadline": "2026-10-13",
           "created": "2026-10-01 08:04:35",
           "assigned_to": "gabriel@pickanddeal.fr"
         }
@@ -145,14 +145,14 @@
         {
           "date": "2026-09-20 15:17:41",
           "author": "OdooBot",
-          "type": "notification",
-          "body": "<p>Piste enrichie à partir de l'adresse e-mail</p>\n        <div class=\"o_partner_autocomplete_enrich_info p-3 mt-3 mb-3 me-5\">\n            <div class=\"row p-0 m-0\">\n            <div class=\"col-sm-10 p-0\">\n                <h4>\n                    <span class=\"me-3 align-middle\">Avril</span>\n                    <a class=\"ms-2\" target=\"_blank\" href=\"http://www.facebook.com/avril.cosmetique\">\n                        <img src=\"/mail/font_to_img/61570/rgb(59,89,152)/22\">\n                    </a>\n                    <a class=\"ms-2\" target=\"_blank\" href=\"https://www.linkedin.com/company/avrilcosmetique\">\n                        <img src=\"/mail/font_to_img/61580/rgb(0,119,181)/22\">\n                    </a>\n                </h4>\n                <p>AVRIL est une nouvelle marque de cosmétiques qui cultive deux valeurs fondamentales : la qualité et l’écologie.    &gt;&gt; La qualité AVRIL  Tous les produits sont élaborés dans le respect des normes françaises et européennes.   Les gammes bio sont certifié...</p>\n            </div>\n            </div>\n            <hr>\n\n            <div class=\"col-sm-12 row m-0 p-0\">\n                <div class=\"d-flex my-1 p-0 col-sm-3\">\n                    <i class=\"fa fa-fw me-2 fa-calendar text-primary\"></i>\n                    <b>Founded</b>\n                </div>\n                <div class=\"my-1 col-sm-9\">2012</div>\n                <div class=\"d-flex my-1 p-0 col-sm-3\">\n                    <i class=\"fa fa-fw me-2 fa-industry text-primary\"></i>\n                    <b>Sectors</b>\n                </div>\n                <div class=\"my-1 col-sm-9\">\n                        <label class=\"o_tag o_tag_color_7\" style=\"font-weight:normal; padding:2px 10px; margin:1px 0px; border-radius:13px; display:inline-block\">Consumer Staples</label>\n                        <label class=\"o_tag o_tag_color_7\" style=\"font-weight:normal; padding:2px 10px; margin:1px 0px; border-radius:13px; display:inline-block\">Personal Products</label>\n                        <label class=\"o_tag o_tag_color_7\" style=\"font-weight:normal; padding:2px 10px; margin:1px 0px; border-radius:13px; display:inline-block\">Household &amp; Personal Products</label>\n                        <label class=\"o_tag o_tag_color_7\" style=\"font-weight:normal; padding:2px 10px; margin:1px 0px; border-radius:13px; display:inline-block\">Cosmetics</label>\n                </div>\n                <div class=\"d-flex my-1 p-0 col-sm-3\">\n                    <i class=\"fa fa-fw me-2 fa-users text-primary\"></i>\n                    <b>Employees</b>\n                </div>\n                <div class=\"my-1 col-sm-9\">300</div>\n                <div class=\"d-flex my-1 p-0 col-sm-3\">\n                    <i class=\"fa fa-fw me-2 fa-globe text-primary\"></i>\n                    <b>Timezone</b>\n                </div>\n                <div class=\"my-1 col-sm-9\">Europe/Paris</div>\n                <div class=\"d-flex my-1 p-0 col-sm-3\">\n                    <i class=\"fa fa-fw me-2 fa-cube text-primary\"></i>\n                    <b>Technologies Used</b>\n                </div>\n                <div class=\"my-1 col-sm-9\">\n                        <label class=\"o_tag o_tag_color_7\" style=\"font-weight:normal; padding:2px 10px; margin:1px 0px; border-radius:13px; display:inline-block\">Google Apps</label>\n                        <label class=\"o_tag o_tag_color_7\" style=\"font-weight:normal; padding:2px 10px; margin:1px 0px; border-radius:13px; display:inline-block\">Google Analytics</label>\n                        <label class=\"o_tag o_tag_color_7\" style=\"font-weight:normal; padding:2px 10px; margin:1px 0px; border-radius:13px; display:inline-block\">Facebook Advertiser</label>\n                        <label class=\"o_tag o_tag_color_7\" style=\"font-weight:normal; padding:2px 10px; margin:1px 0px; border-radius:13px; display:inline-block\">Facebook Connect</label>\n                        <label class=\"o_tag o_tag_color_7\" style=\"font-weight:normal; padding:2px 10px; margin:1px 0px; border-radius:13px; display:inline-block\">Apache</label>\n                        <label class=\"o_tag o_tag_color_7\" style=\"font-weight:normal; padding:2px 10px; margin:1px 0px; border-radius:13px; display:inline-block\">Recaptcha</label>\n                        <label class=\"o_tag o_tag_color_7\" style=\"font-weight:normal; padding:2px 10px; margin:1px 0px; border-radius:13px; display:inline-block\">Presta Shop</label>\n                </div>\n            </div>\n            <div class=\"col-sm-12 row m-0 p-0\">\n                <div class=\"my-1 col-sm-9\">\n                    <div class=\"o_address_format\">\n                    </div>\n                </div>\n            </div>\n        </div>"
+          "type": "tracking",
+          "body": "<div>None → <b>Avril</b> <i>(Nom de la société)</i><br>None → <b>59800 Lille, France</b> <i>(Rue)</i><br>None → <b>59800</b> <i>(Code postal)</i><br>None → <b>Lille</b> <i>(Ville)</i><br>None → <b>France</b> <i>(Pays)</i></div>"
         },
         {
           "date": "2026-09-20 15:17:41",
           "author": "OdooBot",
-          "type": "tracking",
-          "body": "<div>None → <b>Avril</b> <i>(Nom de la société)</i><br>None → <b>59800 Lille, France</b> <i>(Rue)</i><br>None → <b>59800</b> <i>(Code postal)</i><br>None → <b>Lille</b> <i>(Ville)</i><br>None → <b>France</b> <i>(Pays)</i></div>"
+          "type": "notification",
+          "body": "<p>Piste enrichie à partir de l'adresse e-mail</p>\n        <div class=\"o_partner_autocomplete_enrich_info p-3 mt-3 mb-3 me-5\">\n            <div class=\"row p-0 m-0\">\n            <div class=\"col-sm-10 p-0\">\n                <h4>\n                    <span class=\"me-3 align-middle\">Avril</span>\n                    <a class=\"ms-2\" target=\"_blank\" href=\"http://www.facebook.com/avril.cosmetique\">\n                        <img src=\"/mail/font_to_img/61570/rgb(59,89,152)/22\">\n                    </a>\n                    <a class=\"ms-2\" target=\"_blank\" href=\"https://www.linkedin.com/company/avrilcosmetique\">\n                        <img src=\"/mail/font_to_img/61580/rgb(0,119,181)/22\">\n                    </a>\n                </h4>\n                <p>AVRIL est une nouvelle marque de cosmétiques qui cultive deux valeurs fondamentales : la qualité et l’écologie.    &gt;&gt; La qualité AVRIL  Tous les produits sont élaborés dans le respect des normes françaises et européennes.   Les gammes bio sont certifié...</p>\n            </div>\n            </div>\n            <hr>\n\n            <div class=\"col-sm-12 row m-0 p-0\">\n                <div class=\"d-flex my-1 p-0 col-sm-3\">\n                    <i class=\"fa fa-fw me-2 fa-calendar text-primary\"></i>\n                    <b>Founded</b>\n                </div>\n                <div class=\"my-1 col-sm-9\">2012</div>\n                <div class=\"d-flex my-1 p-0 col-sm-3\">\n                    <i class=\"fa fa-fw me-2 fa-industry text-primary\"></i>\n                    <b>Sectors</b>\n                </div>\n                <div class=\"my-1 col-sm-9\">\n                        <label class=\"o_tag o_tag_color_7\" style=\"font-weight:normal; padding:2px 10px; margin:1px 0px; border-radius:13px; display:inline-block\">Consumer Staples</label>\n                        <label class=\"o_tag o_tag_color_7\" style=\"font-weight:normal; padding:2px 10px; margin:1px 0px; border-radius:13px; display:inline-block\">Personal Products</label>\n                        <label class=\"o_tag o_tag_color_7\" style=\"font-weight:normal; padding:2px 10px; margin:1px 0px; border-radius:13px; display:inline-block\">Household &amp; Personal Products</label>\n                        <label class=\"o_tag o_tag_color_7\" style=\"font-weight:normal; padding:2px 10px; margin:1px 0px; border-radius:13px; display:inline-block\">Cosmetics</label>\n                </div>\n                <div class=\"d-flex my-1 p-0 col-sm-3\">\n                    <i class=\"fa fa-fw me-2 fa-users text-primary\"></i>\n                    <b>Employees</b>\n                </div>\n                <div class=\"my-1 col-sm-9\">300</div>\n                <div class=\"d-flex my-1 p-0 col-sm-3\">\n                    <i class=\"fa fa-fw me-2 fa-globe text-primary\"></i>\n                    <b>Timezone</b>\n                </div>\n                <div class=\"my-1 col-sm-9\">Europe/Paris</div>\n                <div class=\"d-flex my-1 p-0 col-sm-3\">\n                    <i class=\"fa fa-fw me-2 fa-cube text-primary\"></i>\n                    <b>Technologies Used</b>\n                </div>\n                <div class=\"my-1 col-sm-9\">\n                        <label class=\"o_tag o_tag_color_7\" style=\"font-weight:normal; padding:2px 10px; margin:1px 0px; border-radius:13px; display:inline-block\">Google Apps</label>\n                        <label class=\"o_tag o_tag_color_7\" style=\"font-weight:normal; padding:2px 10px; margin:1px 0px; border-radius:13px; display:inline-block\">Google Analytics</label>\n                        <label class=\"o_tag o_tag_color_7\" style=\"font-weight:normal; padding:2px 10px; margin:1px 0px; border-radius:13px; display:inline-block\">Facebook Advertiser</label>\n                        <label class=\"o_tag o_tag_color_7\" style=\"font-weight:normal; padding:2px 10px; margin:1px 0px; border-radius:13px; display:inline-block\">Facebook Connect</label>\n                        <label class=\"o_tag o_tag_color_7\" style=\"font-weight:normal; padding:2px 10px; margin:1px 0px; border-radius:13px; display:inline-block\">Apache</label>\n                        <label class=\"o_tag o_tag_color_7\" style=\"font-weight:normal; padding:2px 10px; margin:1px 0px; border-radius:13px; display:inline-block\">Recaptcha</label>\n                        <label class=\"o_tag o_tag_color_7\" style=\"font-weight:normal; padding:2px 10px; margin:1px 0px; border-radius:13px; display:inline-block\">Presta Shop</label>\n                </div>\n            </div>\n            <div class=\"col-sm-12 row m-0 p-0\">\n                <div class=\"my-1 col-sm-9\">\n                    <div class=\"o_address_format\">\n                    </div>\n                </div>\n            </div>\n        </div>"
         },
         {
           "date": "2026-09-20 15:17:43",
@@ -233,10 +233,10 @@
       ],
       "activities": [
         {
-          "summary": "To-Do",
+          "summary": "Seconde approche",
           "note": false,
           "type": "To-Do",
-          "date_deadline": "2026-09-29",
+          "date_deadline": "2026-10-13",
           "created": "2026-09-18 09:42:36",
           "assigned_to": "gabriel@pickanddeal.fr"
         }
@@ -346,14 +346,14 @@
         {
           "date": "2026-09-18 09:05:32",
           "author": "Pick&Deal, gabriel@pickanddeal.fr",
-          "type": "comment",
-          "body": "<p>amine@oklashop.com</p>"
+          "type": "tracking",
+          "body": "<div>None → <b>amine@oklashop.com</b> <i>(E-mail)</i></div>"
         },
         {
           "date": "2026-09-18 09:05:32",
           "author": "Pick&Deal, gabriel@pickanddeal.fr",
-          "type": "tracking",
-          "body": "<div>None → <b>amine@oklashop.com</b> <i>(E-mail)</i></div>"
+          "type": "comment",
+          "body": "<p>amine@oklashop.com</p>"
         },
         {
           "date": "2026-09-18 09:06:03",
@@ -446,14 +446,14 @@
         {
           "date": "2026-05-11 11:03:15",
           "author": "OdooBot",
-          "type": "notification",
-          "body": "<p>Piste enrichie à partir de l'adresse e-mail</p>\n        <div class=\"o_partner_autocomplete_enrich_info p-3 mt-3 mb-3 me-5\">\n            <div class=\"row p-0 m-0\">\n            <div class=\"col-sm-10 p-0\">\n                <h4>\n                    <span class=\"me-3 align-middle\">Ecume Store</span>\n                    <a class=\"ms-2\" target=\"_blank\" href=\"https://www.linkedin.com/company/ecume-store\">\n                        <img src=\"/mail/font_to_img/61580/rgb(0,119,181)/22\">\n                    </a>\n                </h4>\n                <p>Ecume Store is a mixed wardrobe in Toulouse that offers a selection of ready-to-wear brands and accessories for men and women. They provide a range of brands such as Minimum fashion, Saye Brand, Ucon Acrobatics, Matt &amp; Nat, Thinking Mu, Edmmond Studios...</p>\n            </div>\n            <div class=\"col-sm-2 p-0 text-center text-md-end order-first order-md-last\">\n                <img alt=\"\" style=\"max-width:80px\" src=\"https://logo.clearbit.com/ecumestore.fr\">\n            </div>\n            </div>\n            <hr>\n\n            <div class=\"col-sm-12 row m-0 p-0\">\n                <div class=\"d-flex my-1 p-0 col-sm-3\">\n                    <i class=\"fa fa-fw me-2 fa-calendar text-primary\"></i>\n                    <b>Founded</b>\n                </div>\n                <div class=\"my-1 col-sm-9\">2021</div>\n                <div class=\"d-flex my-1 p-0 col-sm-3\">\n                    <i class=\"fa fa-fw me-2 fa-industry text-primary\"></i>\n                    <b>Sectors</b>\n                </div>\n                <div class=\"my-1 col-sm-9\">\n                        <label class=\"o_tag o_tag_color_7\" style=\"font-weight:normal; padding:2px 10px; margin:1px 0px; border-radius:13px; display:inline-block\">Consumer Discretionary</label>\n                        <label class=\"o_tag o_tag_color_7\" style=\"font-weight:normal; padding:2px 10px; margin:1px 0px; border-radius:13px; display:inline-block\">Retailing</label>\n                        <label class=\"o_tag o_tag_color_7\" style=\"font-weight:normal; padding:2px 10px; margin:1px 0px; border-radius:13px; display:inline-block\">Retailing</label>\n                        <label class=\"o_tag o_tag_color_7\" style=\"font-weight:normal; padding:2px 10px; margin:1px 0px; border-radius:13px; display:inline-block\">Retailing</label>\n                </div>\n                <div class=\"d-flex my-1 p-0 col-sm-3\">\n                    <i class=\"fa fa-fw me-2 fa-users text-primary\"></i>\n                    <b>Employees</b>\n                </div>\n                <div class=\"my-1 col-sm-9\">5</div>\n                <div class=\"d-flex my-1 p-0 col-sm-3\">\n                    <i class=\"fa fa-fw me-2 fa-money text-primary\"></i>\n                    <b>Estimated revenue</b>\n                </div>\n                <div class=\"my-1 col-sm-9\">\n                    <span>$0-$1M</span><span> per year</span>\n                </div>\n                <div class=\"d-flex my-1 p-0 col-sm-3\">\n                    <i class=\"fa fa-fw me-2 fa-globe text-primary\"></i>\n                    <b>Timezone</b>\n                </div>\n                <div class=\"my-1 col-sm-9\">Europe/Paris</div>\n                <div class=\"d-flex my-1 p-0 col-sm-3\">\n                    <i class=\"fa fa-fw me-2 fa-cube text-primary\"></i>\n                    <b>Technologies Used</b>\n                </div>\n                <div class=\"my-1 col-sm-9\">\n                        <label class=\"o_tag o_tag_color_7\" style=\"font-weight:normal; padding:2px 10px; margin:1px 0px; border-radius:13px; display:inline-block\">Hotjar</label>\n                        <label class=\"o_tag o_tag_color_7\" style=\"font-weight:normal; padding:2px 10px; margin:1px 0px; border-radius:13px; display:inline-block\">Google Analytics</label>\n                        <label class=\"o_tag o_tag_color_7\" style=\"font-weight:normal; padding:2px 10px; margin:1px 0px; border-radius:13px; display:inline-block\">Cloud Flare</label>\n                        <label class=\"o_tag o_tag_color_7\" style=\"font-weight:normal; padding:2px 10px; margin:1px 0px; border-radius:13px; display:inline-block\">Facebook Advertiser</label>\n                        <label class=\"o_tag o_tag_color_7\" style=\"font-weight:normal; padding:2px 10px; margin:1px 0px; border-radius:13px; display:inline-block\">Shopify</label>\n                </div>\n            </div>\n            <div class=\"col-sm-12 row m-0 p-0\">\n                <div class=\"my-1 col-sm-9\">\n                    <div class=\"o_address_format\">\n                    </div>\n                </div>\n            </div>\n        </div>"
+          "type": "tracking",
+          "body": "None<b>France</b><i>Rue</i><br>None<b>Ecume Store</b><i>Nom de la société</i><br><br>"
         },
         {
           "date": "2026-05-11 11:03:15",
           "author": "OdooBot",
-          "type": "tracking",
-          "body": "None<b>France</b><i>Rue</i><br>None<b>Ecume Store</b><i>Nom de la société</i><br><br>"
+          "type": "notification",
+          "body": "<p>Piste enrichie à partir de l'adresse e-mail</p>\n        <div class=\"o_partner_autocomplete_enrich_info p-3 mt-3 mb-3 me-5\">\n            <div class=\"row p-0 m-0\">\n            <div class=\"col-sm-10 p-0\">\n                <h4>\n                    <span class=\"me-3 align-middle\">Ecume Store</span>\n                    <a class=\"ms-2\" target=\"_blank\" href=\"https://www.linkedin.com/company/ecume-store\">\n                        <img src=\"/mail/font_to_img/61580/rgb(0,119,181)/22\">\n                    </a>\n                </h4>\n                <p>Ecume Store is a mixed wardrobe in Toulouse that offers a selection of ready-to-wear brands and accessories for men and women. They provide a range of brands such as Minimum fashion, Saye Brand, Ucon Acrobatics, Matt &amp; Nat, Thinking Mu, Edmmond Studios...</p>\n            </div>\n            <div class=\"col-sm-2 p-0 text-center text-md-end order-first order-md-last\">\n                <img alt=\"\" style=\"max-width:80px\" src=\"https://logo.clearbit.com/ecumestore.fr\">\n            </div>\n            </div>\n            <hr>\n\n            <div class=\"col-sm-12 row m-0 p-0\">\n                <div class=\"d-flex my-1 p-0 col-sm-3\">\n                    <i class=\"fa fa-fw me-2 fa-calendar text-primary\"></i>\n                    <b>Founded</b>\n                </div>\n                <div class=\"my-1 col-sm-9\">2021</div>\n                <div class=\"d-flex my-1 p-0 col-sm-3\">\n                    <i class=\"fa fa-fw me-2 fa-industry text-primary\"></i>\n                    <b>Sectors</b>\n                </div>\n                <div class=\"my-1 col-sm-9\">\n                        <label class=\"o_tag o_tag_color_7\" style=\"font-weight:normal; padding:2px 10px; margin:1px 0px; border-radius:13px; display:inline-block\">Consumer Discretionary</label>\n                        <label class=\"o_tag o_tag_color_7\" style=\"font-weight:normal; padding:2px 10px; margin:1px 0px; border-radius:13px; display:inline-block\">Retailing</label>\n                        <label class=\"o_tag o_tag_color_7\" style=\"font-weight:normal; padding:2px 10px; margin:1px 0px; border-radius:13px; display:inline-block\">Retailing</label>\n                        <label class=\"o_tag o_tag_color_7\" style=\"font-weight:normal; padding:2px 10px; margin:1px 0px; border-radius:13px; display:inline-block\">Retailing</label>\n                </div>\n                <div class=\"d-flex my-1 p-0 col-sm-3\">\n                    <i class=\"fa fa-fw me-2 fa-users text-primary\"></i>\n                    <b>Employees</b>\n                </div>\n                <div class=\"my-1 col-sm-9\">5</div>\n                <div class=\"d-flex my-1 p-0 col-sm-3\">\n                    <i class=\"fa fa-fw me-2 fa-money text-primary\"></i>\n                    <b>Estimated revenue</b>\n                </div>\n                <div class=\"my-1 col-sm-9\">\n                    <span>$0-$1M</span><span> per year</span>\n                </div>\n                <div class=\"d-flex my-1 p-0 col-sm-3\">\n                    <i class=\"fa fa-fw me-2 fa-globe text-primary\"></i>\n                    <b>Timezone</b>\n                </div>\n                <div class=\"my-1 col-sm-9\">Europe/Paris</div>\n                <div class=\"d-flex my-1 p-0 col-sm-3\">\n                    <i class=\"fa fa-fw me-2 fa-cube text-primary\"></i>\n                    <b>Technologies Used</b>\n                </div>\n                <div class=\"my-1 col-sm-9\">\n                        <label class=\"o_tag o_tag_color_7\" style=\"font-weight:normal; padding:2px 10px; margin:1px 0px; border-radius:13px; display:inline-block\">Hotjar</label>\n                        <label class=\"o_tag o_tag_color_7\" style=\"font-weight:normal; padding:2px 10px; margin:1px 0px; border-radius:13px; display:inline-block\">Google Analytics</label>\n                        <label class=\"o_tag o_tag_color_7\" style=\"font-weight:normal; padding:2px 10px; margin:1px 0px; border-radius:13px; display:inline-block\">Cloud Flare</label>\n                        <label class=\"o_tag o_tag_color_7\" style=\"font-weight:normal; padding:2px 10px; margin:1px 0px; border-radius:13px; display:inline-block\">Facebook Advertiser</label>\n                        <label class=\"o_tag o_tag_color_7\" style=\"font-weight:normal; padding:2px 10px; margin:1px 0px; border-radius:13px; display:inline-block\">Shopify</label>\n                </div>\n            </div>\n            <div class=\"col-sm-12 row m-0 p-0\">\n                <div class=\"my-1 col-sm-9\">\n                    <div class=\"o_address_format\">\n                    </div>\n                </div>\n            </div>\n        </div>"
         },
         {
           "date": "2026-05-11 11:06:35",
@@ -850,14 +850,14 @@
         {
           "date": "2026-04-29 08:30:22",
           "author": "Pick&Deal, gabriel@pickanddeal.fr",
-          "type": "tracking",
-          "body": "None<b>fanny.feinte@gmail.com</b><i>E-mail</i><br><br>"
+          "type": "comment",
+          "body": "<p>06 69 (32) (82) 55<span class=\"o-mail-Message-edited\"></span></p>"
         },
         {
           "date": "2026-04-29 08:30:22",
           "author": "Pick&Deal, gabriel@pickanddeal.fr",
-          "type": "comment",
-          "body": "<p>06 69 (32) (82) 55<span class=\"o-mail-Message-edited\"></span></p>"
+          "type": "tracking",
+          "body": "None<b>fanny.feinte@gmail.com</b><i>E-mail</i><br><br>"
         },
         {
           "date": "2026-04-29 08:33:55",
@@ -1116,48 +1116,6 @@
       ]
     },
     {
-      "id": 45,
-      "name": "Projet - Capsule Végétale",
-      "partner_name": false,
-      "contact_name": "Capsule Végétale",
-      "email_from": false,
-      "phone": "+33 9 52 08 84 31",
-      "stage_id": [
-        1,
-        "PROSPECT IDENTIFIÉ"
-      ],
-      "probability": 77.07,
-      "expected_revenue": 0.0,
-      "description": false,
-      "tag_ids": [
-        2
-      ],
-      "user_id": [
-        2,
-        "gabriel@pickanddeal.fr"
-      ],
-      "create_date": "2026-04-04 17:54:13",
-      "write_date": "2026-04-04 17:54:13",
-      "chatter": [
-        {
-          "date": "2026-04-04 17:54:13",
-          "author": "Pick&Deal, gabriel@pickanddeal.fr",
-          "type": "notification",
-          "body": "<div><p></p></div>"
-        }
-      ],
-      "activities": [
-        {
-          "summary": "To-Do",
-          "note": false,
-          "type": "To-Do",
-          "date_deadline": "2026-09-29",
-          "created": "2026-04-04 17:54:27",
-          "assigned_to": "gabriel@pickanddeal.fr"
-        }
-      ]
-    },
-    {
       "id": 44,
       "name": "Projet - L'IDEE Toulouse",
       "partner_name": false,
@@ -1388,14 +1346,20 @@
           "author": "Pick&Deal, gabriel@pickanddeal.fr",
           "type": "notification",
           "body": "<div><p></p></div>"
+        },
+        {
+          "date": "2026-10-12 14:55:15",
+          "author": "Pick&Deal, gabriel@pickanddeal.fr",
+          "type": "comment",
+          "body": "<p>jamais passé je vais approcher ce jeudi</p>"
         }
       ],
       "activities": [
         {
-          "summary": "To-Do",
+          "summary": "Première approche",
           "note": false,
           "type": "To-Do",
-          "date_deadline": "2026-09-29",
+          "date_deadline": "2026-10-15",
           "created": "2026-04-04 17:46:37",
           "assigned_to": "gabriel@pickanddeal.fr"
         }
@@ -1430,14 +1394,20 @@
           "author": "Pick&Deal, gabriel@pickanddeal.fr",
           "type": "notification",
           "body": "<div><p></p></div>"
+        },
+        {
+          "date": "2026-10-12 14:55:58",
+          "author": "Pick&Deal, gabriel@pickanddeal.fr",
+          "type": "comment",
+          "body": "<p>jamais approché, je vais y aller ce jeudi</p>"
         }
       ],
       "activities": [
         {
-          "summary": "To-Do",
+          "summary": "Première approche",
           "note": false,
           "type": "To-Do",
-          "date_deadline": "2026-09-29",
+          "date_deadline": "2026-10-15",
           "created": "2026-04-04 17:45:00",
           "assigned_to": "gabriel@pickanddeal.fr"
         }
@@ -1502,9 +1472,30 @@
           "author": "Pick&Deal, gabriel@pickanddeal.fr",
           "type": "tracking",
           "body": "<div>PROSPECT IDENTIFIÉ → <b>INTRIGUÉ</b> <i>(Étape)</i></div>"
+        },
+        {
+          "date": "2026-10-12 15:46:48",
+          "author": "Pick&Deal, gabriel@pickanddeal.fr",
+          "type": "comment",
+          "body": "<p>je viens d'appeler son 06 j'ai pas eu de retour <br><br>(c'est monsieur rabot)</p>"
+        },
+        {
+          "date": "2026-10-12 15:46:58",
+          "author": "Pick&Deal, gabriel@pickanddeal.fr",
+          "type": "comment",
+          "body": "<p>j'ai laissé un message</p>"
         }
       ],
-      "activities": []
+      "activities": [
+        {
+          "summary": "Passé en boutique voir si Monsieur Rabot est là",
+          "note": false,
+          "type": "To-Do",
+          "date_deadline": "2026-10-15",
+          "created": "2026-10-12 15:49:54",
+          "assigned_to": "gabriel@pickanddeal.fr"
+        }
+      ]
     },
     {
       "id": 37,
@@ -1535,14 +1526,20 @@
           "author": "Pick&Deal, gabriel@pickanddeal.fr",
           "type": "notification",
           "body": "<div><p></p></div>"
+        },
+        {
+          "date": "2026-10-12 14:58:43",
+          "author": "Pick&Deal, gabriel@pickanddeal.fr",
+          "type": "comment",
+          "body": "<p>jamais approché, je vais y passer ce jeudi</p>"
         }
       ],
       "activities": [
         {
-          "summary": "To-Do",
+          "summary": "Première approche",
           "note": false,
           "type": "To-Do",
-          "date_deadline": "2026-09-22",
+          "date_deadline": "2026-10-15",
           "created": "2026-04-04 17:40:16",
           "assigned_to": "gabriel@pickanddeal.fr"
         }
@@ -5363,15 +5360,29 @@
           "author": "Pick&Deal, gabriel@pickanddeal.fr",
           "type": "comment",
           "body": "<p>Je viens d'avoir Céline, elle est à l'etranger, jeudi 08 octobre je l'appelle vers 15h</p>"
+        },
+        {
+          "date": "2026-10-12 15:37:48",
+          "author": "Pick&Deal, gabriel@pickanddeal.fr",
+          "type": "comment",
+          "body": "<p>je viens de l'appeler, etant tres occupé on se donne rdv ce vendredi 16/10 à 15h en visio, comme elle était pas sur d'etre dispo elle m'a dit que je l'appelle mercredi 14/10 pour quon se confirme ce rdv de vendredi</p>"
         }
       ],
       "activities": [
         {
-          "summary": "Appeler pour rdv vers 15h",
+          "summary": "Appeler mercredi pour confirmation RDV",
           "note": false,
           "type": "Call",
-          "date_deadline": "2026-10-08",
+          "date_deadline": "2026-10-14",
           "created": "2026-03-26 10:08:22",
+          "assigned_to": "gabriel@pickanddeal.fr"
+        },
+        {
+          "summary": "RDV VENDREDI A 15H",
+          "note": false,
+          "type": "To-Do",
+          "date_deadline": "2026-10-17",
+          "created": "2026-10-12 15:38:57",
           "assigned_to": "gabriel@pickanddeal.fr"
         }
       ]
