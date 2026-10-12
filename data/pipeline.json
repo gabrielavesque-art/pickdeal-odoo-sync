@@ -1,5 +1,5 @@
 {
-  "synced_at": "2026-10-12T11:17:52.540487+00:00",
+  "synced_at": "2026-10-12T11:28:46.817114+00:00",
   "count": 56,
   "leads": [
     {
@@ -41,6 +41,16 @@
           "author": "Pick&Deal, gabriel@pickanddeal.fr",
           "type": "tracking",
           "body": "<div>PROSPECT IDENTIFIÉ → <b>DÉMARCHÉ (A RELANCER)</b> <i>(Étape)</i></div>"
+        }
+      ],
+      "activities": [
+        {
+          "summary": "To-Do",
+          "note": false,
+          "type": "To-Do",
+          "date_deadline": "2026-10-06",
+          "created": "2026-10-01 08:04:35",
+          "assigned_to": "gabriel@pickanddeal.fr"
         }
       ]
     },
@@ -85,6 +95,16 @@
           "author": "Pick&Deal, gabriel@pickanddeal.fr",
           "type": "comment",
           "body": "<p>J'ai discuté avec Rachel de la boutique qui ont des invendus, <br>J'ai eu son numéro de téléphone mais j'ai mal noté les deux dernier numéros.<br><br>Repasser pour un rdv</p>"
+        }
+      ],
+      "activities": [
+        {
+          "summary": "passé pour rdv",
+          "note": false,
+          "type": "To-Do",
+          "date_deadline": "2026-10-01",
+          "created": "2026-10-01 07:52:39",
+          "assigned_to": "gabriel@pickanddeal.fr"
         }
       ]
     },
@@ -158,6 +178,16 @@
           "type": "tracking",
           "body": "<div>PROSPECT IDENTIFIÉ → <b>PAS DÉCISIONNAIRE</b> <i>(Étape)</i></div>"
         }
+      ],
+      "activities": [
+        {
+          "summary": "Relance - 9h à 11h",
+          "note": false,
+          "type": "Email",
+          "date_deadline": "2026-09-30",
+          "created": "2026-09-20 15:18:31",
+          "assigned_to": "gabriel@pickanddeal.fr"
+        }
       ]
     },
     {
@@ -199,6 +229,16 @@
           "author": "Pick&Deal, gabriel@pickanddeal.fr",
           "type": "tracking",
           "body": "<div>PROSPECT IDENTIFIÉ → <b>DÉMARCHÉ (A RELANCER)</b> <i>(Étape)</i></div>"
+        }
+      ],
+      "activities": [
+        {
+          "summary": "To-Do",
+          "note": false,
+          "type": "To-Do",
+          "date_deadline": "2026-09-29",
+          "created": "2026-09-18 09:42:36",
+          "assigned_to": "gabriel@pickanddeal.fr"
         }
       ]
     },
@@ -266,7 +306,8 @@
           "type": "tracking",
           "body": "<div>PROSPECT IDENTIFIÉ → <b>PAS INTÉRESSÉ</b> <i>(Étape)</i></div>"
         }
-      ]
+      ],
+      "activities": []
     },
     {
       "id": 55,
@@ -356,6 +397,16 @@
           "type": "comment",
           "body": "<span class=\"o-mail-Message-edited\" data-o-datetime=\"2026-10-12 10:25:34\"></span>"
         }
+      ],
+      "activities": [
+        {
+          "summary": "passe voir suite mail",
+          "note": false,
+          "type": "To-Do",
+          "date_deadline": "2026-10-01",
+          "created": "2026-09-18 09:06:47",
+          "assigned_to": "gabriel@pickanddeal.fr"
+        }
       ]
     },
     {
@@ -434,7 +485,8 @@
           "type": "tracking",
           "body": "<div>INTRIGUÉ → <b>PAS INTÉRESSÉ</b> <i>(Étape)</i></div>"
         }
-      ]
+      ],
+      "activities": []
     },
     {
       "id": 53,
@@ -508,6 +560,16 @@
           "type": "tracking",
           "body": "<div>None → <b>andy.kouby@gmail.com</b> <i>(E-mail)</i><br>+33 5 61 75 61 57 → <b>+33 6 17 19 95 41</b> <i>(Téléphone)</i></div>"
         }
+      ],
+      "activities": [
+        {
+          "summary": "Check la boutique O LE BAZAR",
+          "note": false,
+          "type": "To-Do",
+          "date_deadline": "2026-09-29",
+          "created": "2026-09-16 16:47:02",
+          "assigned_to": "gabriel@pickanddeal.fr"
+        }
       ]
     },
     {
@@ -562,6 +624,16 @@
           "type": "tracking",
           "body": "None<b>Quartier Libre Papier</b><i>Nom de la société</i><br><br>"
         }
+      ],
+      "activities": [
+        {
+          "summary": "To-Do",
+          "note": false,
+          "type": "To-Do",
+          "date_deadline": "2026-09-29",
+          "created": "2026-04-29 08:50:13",
+          "assigned_to": "gabriel@pickanddeal.fr"
+        }
       ]
     },
     {
@@ -615,6 +687,16 @@
           "author": "Pick&Deal, gabriel@pickanddeal.fr",
           "type": "comment",
           "body": "<span class=\"o-mail-Message-edited\" data-o-datetime=\"2026-09-18 09:49:15\"></span>"
+        }
+      ],
+      "activities": [
+        {
+          "summary": "To-Do",
+          "note": false,
+          "type": "To-Do",
+          "date_deadline": "2026-09-29",
+          "created": "2026-04-29 08:46:17",
+          "assigned_to": "gabriel@pickanddeal.fr"
         }
       ]
     },
@@ -676,7 +758,8 @@
           "type": "comment",
           "body": "<p>non car pas assez d'invendu</p>"
         }
-      ]
+      ],
+      "activities": []
     },
     {
       "id": 49,
@@ -723,6 +806,16 @@
           "author": "Pick&Deal, gabriel@pickanddeal.fr",
           "type": "tracking",
           "body": "PROSPECT IDENTIFIÉ<b>DÉMARCHÉ (A RELANCER)</b><i>Étape</i><br><br>"
+        }
+      ],
+      "activities": [
+        {
+          "summary": "To-Do",
+          "note": false,
+          "type": "To-Do",
+          "date_deadline": "2026-09-29",
+          "created": "2026-04-29 08:38:13",
+          "assigned_to": "gabriel@pickanddeal.fr"
         }
       ]
     },
@@ -826,6 +919,16 @@
           "type": "tracking",
           "body": "<div>INTÉRESSÉ → <b>PAS INTÉRESSÉ</b> <i>(Étape)</i></div>"
         }
+      ],
+      "activities": [
+        {
+          "summary": "To-Do",
+          "note": false,
+          "type": "To-Do",
+          "date_deadline": "2026-09-30",
+          "created": "2026-09-18 13:38:02",
+          "assigned_to": "gabriel@pickanddeal.fr"
+        }
       ]
     },
     {
@@ -887,6 +990,16 @@
           "author": "Pick&Deal, gabriel@pickanddeal.fr",
           "type": "tracking",
           "body": "<div>En attente → <b>Gagné</b> <i>(Gagnée/Perdue)</i><br>A ONBOARDER → <b>ACTIF</b> <i>(Étape)</i></div>"
+        }
+      ],
+      "activities": [
+        {
+          "summary": "Appeler",
+          "note": false,
+          "type": "Call",
+          "date_deadline": "2026-09-23",
+          "created": "2026-09-16 16:13:30",
+          "assigned_to": "gabriel@pickanddeal.fr"
         }
       ]
     },
@@ -990,6 +1103,16 @@
           "type": "tracking",
           "body": "<div>EN REFLEXION → <b>INTÉRESSÉ</b> <i>(Étape)</i></div>"
         }
+      ],
+      "activities": [
+        {
+          "summary": "To-Do",
+          "note": false,
+          "type": "To-Do",
+          "date_deadline": "2026-09-29",
+          "created": "2026-04-27 15:05:59",
+          "assigned_to": "gabriel@pickanddeal.fr"
+        }
       ]
     },
     {
@@ -1021,6 +1144,16 @@
           "author": "Pick&Deal, gabriel@pickanddeal.fr",
           "type": "notification",
           "body": "<div><p></p></div>"
+        }
+      ],
+      "activities": [
+        {
+          "summary": "To-Do",
+          "note": false,
+          "type": "To-Do",
+          "date_deadline": "2026-09-29",
+          "created": "2026-04-04 17:54:27",
+          "assigned_to": "gabriel@pickanddeal.fr"
         }
       ]
     },
@@ -1066,6 +1199,16 @@
           "type": "tracking",
           "body": "<div>PROSPECT IDENTIFIÉ → <b>PAS INTÉRESSÉ</b> <i>(Étape)</i></div>"
         }
+      ],
+      "activities": [
+        {
+          "summary": "Appeler",
+          "note": false,
+          "type": "Call",
+          "date_deadline": "2027-02-16",
+          "created": "2026-04-04 17:53:13",
+          "assigned_to": "gabriel@pickanddeal.fr"
+        }
       ]
     },
     {
@@ -1109,6 +1252,16 @@
           "author": "Pick&Deal, gabriel@pickanddeal.fr",
           "type": "tracking",
           "body": "<div>PROSPECT IDENTIFIÉ → <b>PAS INTÉRESSÉ</b> <i>(Étape)</i></div>"
+        }
+      ],
+      "activities": [
+        {
+          "summary": "To-Do",
+          "note": false,
+          "type": "To-Do",
+          "date_deadline": "2027-01-05",
+          "created": "2026-04-04 17:51:16",
+          "assigned_to": "gabriel@pickanddeal.fr"
         }
       ]
     },
@@ -1160,7 +1313,8 @@
           "type": "tracking",
           "body": "<div>PROSPECT IDENTIFIÉ → <b>PAS INTÉRESSÉ</b> <i>(Étape)</i></div>"
         }
-      ]
+      ],
+      "activities": []
     },
     {
       "id": 41,
@@ -1202,7 +1356,8 @@
           "type": "tracking",
           "body": "PROSPECT IDENTIFIÉ<b>PAS INTÉRESSÉ</b><i>Étape</i><br><br>"
         }
-      ]
+      ],
+      "activities": []
     },
     {
       "id": 40,
@@ -1233,6 +1388,16 @@
           "author": "Pick&Deal, gabriel@pickanddeal.fr",
           "type": "notification",
           "body": "<div><p></p></div>"
+        }
+      ],
+      "activities": [
+        {
+          "summary": "To-Do",
+          "note": false,
+          "type": "To-Do",
+          "date_deadline": "2026-09-29",
+          "created": "2026-04-04 17:46:37",
+          "assigned_to": "gabriel@pickanddeal.fr"
         }
       ]
     },
@@ -1265,6 +1430,16 @@
           "author": "Pick&Deal, gabriel@pickanddeal.fr",
           "type": "notification",
           "body": "<div><p></p></div>"
+        }
+      ],
+      "activities": [
+        {
+          "summary": "To-Do",
+          "note": false,
+          "type": "To-Do",
+          "date_deadline": "2026-09-29",
+          "created": "2026-04-04 17:45:00",
+          "assigned_to": "gabriel@pickanddeal.fr"
         }
       ]
     },
@@ -1328,7 +1503,8 @@
           "type": "tracking",
           "body": "<div>PROSPECT IDENTIFIÉ → <b>INTRIGUÉ</b> <i>(Étape)</i></div>"
         }
-      ]
+      ],
+      "activities": []
     },
     {
       "id": 37,
@@ -1359,6 +1535,16 @@
           "author": "Pick&Deal, gabriel@pickanddeal.fr",
           "type": "notification",
           "body": "<div><p></p></div>"
+        }
+      ],
+      "activities": [
+        {
+          "summary": "To-Do",
+          "note": false,
+          "type": "To-Do",
+          "date_deadline": "2026-09-22",
+          "created": "2026-04-04 17:40:16",
+          "assigned_to": "gabriel@pickanddeal.fr"
         }
       ]
     },
@@ -1440,6 +1626,16 @@
           "type": "tracking",
           "body": "<div>PROSPECT IDENTIFIÉ → <b>PAS INTÉRESSÉ</b> <i>(Étape)</i></div>"
         }
+      ],
+      "activities": [
+        {
+          "summary": "To-Do",
+          "note": false,
+          "type": "To-Do",
+          "date_deadline": "2027-01-05",
+          "created": "2026-09-18 09:50:15",
+          "assigned_to": "gabriel@pickanddeal.fr"
+        }
       ]
     },
     {
@@ -1502,7 +1698,8 @@
           "type": "tracking",
           "body": "<div>MULTI-DÉCISIONNAIRE → <b>PAS INTÉRESSÉ</b> <i>(Étape)</i></div>"
         }
-      ]
+      ],
+      "activities": []
     },
     {
       "id": 32,
@@ -1628,6 +1825,16 @@
           "type": "comment",
           "body": "<p>passe mercredi 20 y’aura lauraine</p>"
         }
+      ],
+      "activities": [
+        {
+          "summary": "To-Do",
+          "note": false,
+          "type": "To-Do",
+          "date_deadline": "2026-09-29",
+          "created": "2026-04-29 13:44:06",
+          "assigned_to": "gabriel@pickanddeal.fr"
+        }
       ]
     },
     {
@@ -1736,7 +1943,8 @@
           "type": "tracking",
           "body": "DÉMARCHÉ (A RELANCER)<b>A REVOIR PLUS TARD</b><i>Étape</i><br><br>"
         }
-      ]
+      ],
+      "activities": []
     },
     {
       "id": 30,
@@ -1813,6 +2021,16 @@
           "author": "Pick&Deal, gabriel@pickanddeal.fr",
           "type": "comment",
           "body": "<p>j'ai vu la patronne qui trouve l'idee bien mais pour une autre boutique plus tard</p>"
+        }
+      ],
+      "activities": [
+        {
+          "summary": "Passé car pas de téléphone",
+          "note": false,
+          "type": "To-Do",
+          "date_deadline": "2027-03-16",
+          "created": "2026-02-26 19:44:55",
+          "assigned_to": "gabriel@pickanddeal.fr"
         }
       ]
     },
@@ -1940,6 +2158,16 @@
           "type": "comment",
           "body": "<p>lui proposer des comission à 30% pouyr l'instant sinon</p>"
         }
+      ],
+      "activities": [
+        {
+          "summary": "To-Do",
+          "note": false,
+          "type": "To-Do",
+          "date_deadline": "2026-09-29",
+          "created": "2026-03-09 15:17:22",
+          "assigned_to": "gabriel@pickanddeal.fr"
+        }
       ]
     },
     {
@@ -2036,6 +2264,16 @@
           "type": "tracking",
           "body": "PROSPECT IDENTIFIÉ<b>INTRIGUÉ</b><i>Étape</i><br><br>"
         }
+      ],
+      "activities": [
+        {
+          "summary": "To-Do",
+          "note": false,
+          "type": "To-Do",
+          "date_deadline": "2026-09-29",
+          "created": "2026-03-17 15:27:38",
+          "assigned_to": "gabriel@pickanddeal.fr"
+        }
       ]
     },
     {
@@ -2113,6 +2351,16 @@
           "author": "Pick&Deal, gabriel@pickanddeal.fr",
           "type": "tracking",
           "body": "None<b>+33 6 59 51 84 40</b><i>Téléphone</i><br><br>"
+        }
+      ],
+      "activities": [
+        {
+          "summary": "To-Do",
+          "note": false,
+          "type": "To-Do",
+          "date_deadline": "2026-11-25",
+          "created": "2026-04-07 14:05:58",
+          "assigned_to": "gabriel@pickanddeal.fr"
         }
       ]
     },
@@ -2216,7 +2464,8 @@
           "type": "tracking",
           "body": "<div>DÉMARCHÉ (A RELANCER) → <b>PAS INTÉRESSÉ</b> <i>(Étape)</i></div>"
         }
-      ]
+      ],
+      "activities": []
     },
     {
       "id": 25,
@@ -2324,7 +2573,8 @@
           "type": "notification",
           "body": "<div>\n    <p class=\"o_mail_activity_title\">\n        <span class=\"fa fa-phone fa-fw\"></span><span>Appeler</span> terminée\n        <span>: </span><span>Prendre nouvelle</span>\n    </p>\n</div>"
         }
-      ]
+      ],
+      "activities": []
     },
     {
       "id": 24,
@@ -2480,6 +2730,16 @@
           "type": "tracking",
           "body": "<div>En attente → <b>Gagné</b> <i>(Gagnée/Perdue)</i><br>A ONBOARDER → <b>ACTIF</b> <i>(Étape)</i></div>"
         }
+      ],
+      "activities": [
+        {
+          "summary": "Appeler",
+          "note": false,
+          "type": "Call",
+          "date_deadline": "2026-09-22",
+          "created": "2026-05-04 14:45:07",
+          "assigned_to": "gabriel@pickanddeal.fr"
+        }
       ]
     },
     {
@@ -2563,6 +2823,16 @@
           "author": "Pick&Deal, gabriel@pickanddeal.fr",
           "type": "notification",
           "body": "<div>\n    <p>\n        <span class=\"fa fa-phone fa-fw\"></span><span>Appeler</span> terminée\n        <span>: </span><span>Appeler</span>\n    </p>\n</div>"
+        }
+      ],
+      "activities": [
+        {
+          "summary": "Appeler",
+          "note": false,
+          "type": "Call",
+          "date_deadline": "2026-09-29",
+          "created": "2026-04-08 14:18:13",
+          "assigned_to": "gabriel@pickanddeal.fr"
         }
       ]
     },
@@ -2654,6 +2924,16 @@
           "type": "tracking",
           "body": "<div>INTRIGUÉ → <b>Monsieur Oui</b> <i>(Étape)</i></div>"
         }
+      ],
+      "activities": [
+        {
+          "summary": "To-Do",
+          "note": false,
+          "type": "To-Do",
+          "date_deadline": "2026-10-01",
+          "created": "2026-04-08 20:27:29",
+          "assigned_to": "gabriel@pickanddeal.fr"
+        }
       ]
     },
     {
@@ -2728,7 +3008,8 @@
           "type": "tracking",
           "body": "INTRIGUÉ<b>PAS INTÉRESSÉ</b><i>Étape</i><br><br>"
         }
-      ]
+      ],
+      "activities": []
     },
     {
       "id": 20,
@@ -2898,6 +3179,16 @@
           "type": "tracking",
           "body": "<div>En attente → <b>Gagné</b> <i>(Gagnée/Perdue)</i><br>A ONBOARDER → <b>ACTIF</b> <i>(Étape)</i></div>"
         }
+      ],
+      "activities": [
+        {
+          "summary": "Appeler",
+          "note": false,
+          "type": "Call",
+          "date_deadline": "2026-09-22",
+          "created": "2026-05-04 14:31:18",
+          "assigned_to": "gabriel@pickanddeal.fr"
+        }
       ]
     },
     {
@@ -3024,7 +3315,8 @@
           "type": "comment",
           "body": "<p>pas d'invendu</p>"
         }
-      ]
+      ],
+      "activities": []
     },
     {
       "id": 17,
@@ -3143,6 +3435,16 @@
           "author": "Pick&Deal, gabriel@pickanddeal.fr",
           "type": "comment",
           "body": "<p>Je suis allé les voir, ils font de la creation, parfois de la braderie, j'ai pris sa carte, souhaite un mail explicatif</p>"
+        }
+      ],
+      "activities": [
+        {
+          "summary": false,
+          "note": false,
+          "type": "To-Do",
+          "date_deadline": "2026-09-29",
+          "created": "2026-04-09 06:01:12",
+          "assigned_to": "gabriel@pickanddeal.fr"
         }
       ]
     },
@@ -3275,6 +3577,16 @@
           "author": "Pick&Deal, gabriel@pickanddeal.fr",
           "type": "comment",
           "body": "<p>Je suis alle et ct une employé, repasser jeudi matin pour que audrey soit la</p>"
+        }
+      ],
+      "activities": [
+        {
+          "summary": "voir pour solde",
+          "note": false,
+          "type": "To-Do",
+          "date_deadline": "2026-10-01",
+          "created": "2026-04-07 13:59:29",
+          "assigned_to": "gabriel@pickanddeal.fr"
         }
       ]
     },
@@ -3426,6 +3738,16 @@
           "type": "tracking",
           "body": "<div>Gagné → <b>En attente</b> <i>(Gagnée/Perdue)</i><br>ACTIF → <b>Monsieur Oui</b> <i>(Étape)</i></div>"
         }
+      ],
+      "activities": [
+        {
+          "summary": "To-Do",
+          "note": false,
+          "type": "To-Do",
+          "date_deadline": "2026-10-08",
+          "created": "2026-04-07 15:35:21",
+          "assigned_to": "gabriel@pickanddeal.fr"
+        }
       ]
     },
     {
@@ -3510,7 +3832,8 @@
           "type": "tracking",
           "body": "INTRIGUÉ<b>PAS INTÉRESSÉ</b><i>Étape</i><br><br>"
         }
-      ]
+      ],
+      "activities": []
     },
     {
       "id": 12,
@@ -3636,6 +3959,16 @@
           "type": "tracking",
           "body": "<div>MULTI-DÉCISIONNAIRE → <b>PAS DÉCISIONNAIRE</b> <i>(Étape)</i></div>"
         }
+      ],
+      "activities": [
+        {
+          "summary": "Appeler",
+          "note": false,
+          "type": "Call",
+          "date_deadline": "2026-09-29",
+          "created": "2026-04-09 05:57:00",
+          "assigned_to": "gabriel@pickanddeal.fr"
+        }
       ]
     },
     {
@@ -3749,6 +4082,16 @@
           "author": "Pick&Deal, gabriel@pickanddeal.fr",
           "type": "tracking",
           "body": "A ONBOARDER<b>ACTIF</b><i>Étape</i><br>En attente<b>Gagné</b><i>Gagnée/Perdue</i><br><br>"
+        }
+      ],
+      "activities": [
+        {
+          "summary": "To-Do",
+          "note": false,
+          "type": "To-Do",
+          "date_deadline": "2026-09-22",
+          "created": "2026-09-16 16:13:15",
+          "assigned_to": "gabriel@pickanddeal.fr"
         }
       ]
     },
@@ -3900,6 +4243,16 @@
           "type": "tracking",
           "body": "<div>RDV PLANIFIÉ → <b>INTÉRESSÉ</b> <i>(Étape)</i></div>"
         }
+      ],
+      "activities": [
+        {
+          "summary": "To-Do",
+          "note": false,
+          "type": "To-Do",
+          "date_deadline": "2026-09-29",
+          "created": "2026-04-29 13:37:08",
+          "assigned_to": "gabriel@pickanddeal.fr"
+        }
       ]
     },
     {
@@ -4007,6 +4360,16 @@
           "author": "Pick&Deal, gabriel@pickanddeal.fr",
           "type": "notification",
           "body": "<div>\n    <p class=\"o_mail_activity_title\">\n        <span class=\"fa fa-phone fa-fw\"></span><span>Appeler</span> terminée\n        <span>: </span><span>Appeler</span>\n    </p>\n</div>"
+        }
+      ],
+      "activities": [
+        {
+          "summary": "To-Do",
+          "note": false,
+          "type": "To-Do",
+          "date_deadline": "2026-09-29",
+          "created": "2026-09-24 09:51:09",
+          "assigned_to": "gabriel@pickanddeal.fr"
         }
       ]
     },
@@ -4158,6 +4521,16 @@
           "type": "tracking",
           "body": "<div>En attente → <b>Gagné</b> <i>(Gagnée/Perdue)</i><br>A ONBOARDER → <b>ACTIF</b> <i>(Étape)</i></div>"
         }
+      ],
+      "activities": [
+        {
+          "summary": "To-Do",
+          "note": false,
+          "type": "To-Do",
+          "date_deadline": "2026-09-22",
+          "created": "2026-04-08 20:16:25",
+          "assigned_to": "gabriel@pickanddeal.fr"
+        }
       ]
     },
     {
@@ -4223,6 +4596,16 @@
           "author": "Pick&Deal, gabriel@pickanddeal.fr",
           "type": "comment",
           "body": "<p>le mail ne marchant pas, j'ai donc envoyer via le formulaire du site</p>"
+        }
+      ],
+      "activities": [
+        {
+          "summary": "E-mail",
+          "note": false,
+          "type": "Email",
+          "date_deadline": "2026-09-29",
+          "created": "2026-02-17 07:51:28",
+          "assigned_to": "gabriel@pickanddeal.fr"
         }
       ]
     },
@@ -4344,7 +4727,8 @@
           "type": "notification",
           "body": "<div>\n    <p class=\"o_mail_activity_title\">\n        <span class=\"fa fa-phone fa-fw\"></span><span>Appeler</span> terminée\n        <span>: </span><span>Appeler</span>\n    </p>\n</div>"
         }
-      ]
+      ],
+      "activities": []
     },
     {
       "id": 5,
@@ -4502,6 +4886,16 @@
           "type": "comment",
           "body": "<p>la creation stripe à été faite<br>elle est tjr seul et va rester comme ca car ca coute trop cher de recruter <br>elle veut que je passe semaiune du 28/09 pour la creation de paniers</p>"
         }
+      ],
+      "activities": [
+        {
+          "summary": "passer pour paniers",
+          "note": false,
+          "type": "To-Do",
+          "date_deadline": "2026-09-29",
+          "created": "2026-04-09 15:56:44",
+          "assigned_to": "gabriel@pickanddeal.fr"
+        }
       ]
     },
     {
@@ -4640,6 +5034,16 @@
           "type": "tracking",
           "body": "<div>INTRIGUÉ → <b>PAS INTÉRESSÉ</b> <i>(Étape)</i></div>"
         }
+      ],
+      "activities": [
+        {
+          "summary": "passer en septembre",
+          "note": false,
+          "type": "To-Do",
+          "date_deadline": "2027-01-05",
+          "created": "2026-04-07 15:41:42",
+          "assigned_to": "gabriel@pickanddeal.fr"
+        }
       ]
     },
     {
@@ -4693,6 +5097,16 @@
           "author": "Pick&Deal, gabriel@pickanddeal.fr",
           "type": "notification",
           "body": "<div>\n    <p>\n        <span class=\"fa fa-phone fa-fw\"></span><span>Appeler</span> terminée\n        <span>: </span><span>Appeler</span>\n    </p>\n    <div>\n        <div class=\"fw-bold\">Feedback :</div>\n            pas de rep\n    </div>\n</div>"
+        }
+      ],
+      "activities": [
+        {
+          "summary": "Appeler",
+          "note": false,
+          "type": "Call",
+          "date_deadline": "2026-10-05",
+          "created": "2026-04-07 13:05:54",
+          "assigned_to": "gabriel@pickanddeal.fr"
         }
       ]
     },
@@ -4820,6 +5234,16 @@
           "type": "tracking",
           "body": "<div>PAS INTÉRESSÉ → <b>A REVOIR PLUS TARD</b> <i>(Étape)</i></div>"
         }
+      ],
+      "activities": [
+        {
+          "summary": "Prendre nouvelle braderie septembre",
+          "note": false,
+          "type": "Call",
+          "date_deadline": "2026-10-20",
+          "created": "2026-04-04 17:59:21",
+          "assigned_to": "gabriel@pickanddeal.fr"
+        }
       ]
     },
     {
@@ -4939,6 +5363,16 @@
           "author": "Pick&Deal, gabriel@pickanddeal.fr",
           "type": "comment",
           "body": "<p>Je viens d'avoir Céline, elle est à l'etranger, jeudi 08 octobre je l'appelle vers 15h</p>"
+        }
+      ],
+      "activities": [
+        {
+          "summary": "Appeler pour rdv vers 15h",
+          "note": false,
+          "type": "Call",
+          "date_deadline": "2026-10-08",
+          "created": "2026-03-26 10:08:22",
+          "assigned_to": "gabriel@pickanddeal.fr"
         }
       ]
     }
