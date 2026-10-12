@@ -1,0 +1,1 @@
+# pickdeal-odoo-sync
