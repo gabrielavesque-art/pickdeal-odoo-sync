@@ -15,16 +15,51 @@ if not uid:
 
 models = xmlrpc.client.ServerProxy(f"{URL}/xmlrpc/2/object")
 
-# Récupère les opportunités/projets du pipeline CRM (crm.lead)
-fields = ["name", "partner_name", "stage_id", "expected_revenue", "probability",
-          "activity_summary", "activity_date_deadline", "write_date", "tag_ids"]
+# Tous les champs utiles d'une fiche prospect/opportunité
+LEAD_FIELDS = [
+    "name", "partner_name", "contact_name",
+    "email_from", "phone", "mobile",
+    "stage_id", "probability", "expected_revenue",
+    "description",            # le champ "Notes" visible sur la fiche
+    "tag_ids", "user_id",      # vendeur assigné
+    "create_date", "write_date",
+]
 
 leads = models.execute_kw(
     DB, uid, API_KEY,
     "crm.lead", "search_read",
     [[]],
-    {"fields": fields, "limit": 500}
+    {"fields": LEAD_FIELDS, "limit": 500}
 )
+
+# Pour chaque fiche, on va chercher son chatter (mail.message)
+# Le chatter Odoo = tous les messages/notes liés à ce lead précis
+lead_ids = [l["id"] for l in leads]
+
+chatter_by_lead = {lid: [] for lid in lead_ids}
+
+if lead_ids:
+    messages = models.execute_kw(
+        DB, uid, API_KEY,
+        "mail.message", "search_read",
+        [[["model", "=", "crm.lead"], ["res_id", "in", lead_ids]]],
+        {
+            "fields": ["res_id", "body", "author_id", "date", "message_type", "subtype_id"],
+            "order": "date asc",
+            "limit": 2000,
+        }
+    )
+    for m in messages:
+        chatter_by_lead.setdefault(m["res_id"], []).append({
+            "date": m["date"],
+            "author": m["author_id"][1] if m["author_id"] else None,
+            "type": m["message_type"],
+            # body est en HTML brut Odoo, on le garde tel quel (du texte simple la plupart du temps)
+            "body": m["body"],
+        })
+
+for lead in leads:
+    lead["chatter"] = chatter_by_lead.get(lead["id"], [])
 
 snapshot = {
     "synced_at": datetime.now(timezone.utc).isoformat(),
@@ -34,6 +69,6 @@ snapshot = {
 
 os.makedirs("data", exist_ok=True)
 with open("data/pipeline.json", "w", encoding="utf-8") as f:
-    json.dump(snapshot, f, ensure_ascii=False, indent=2)
+    json.dump(snapshot, f, ensure_ascii=False, indent=2, default=str)
 
-print(f"Synced {len(leads)} leads at {snapshot['synced_at']}")
+print(f"Synced {len(leads)} leads (with chatter) at {snapshot['synced_at']}")
