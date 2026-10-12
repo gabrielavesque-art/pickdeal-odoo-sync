@@ -1,0 +1,878 @@
+{
+  "synced_at": "2026-10-12T10:56:12.563559+00:00",
+  "count": 56,
+  "leads": [
+    {
+      "id": 60,
+      "name": "Projet - Marcel Travel Posters",
+      "partner_name": false,
+      "stage_id": [
+        2,
+        "DÉMARCHÉ (A RELANCER)"
+      ],
+      "expected_revenue": 0.0,
+      "probability": 94.57,
+      "activity_summary": "To-Do",
+      "activity_date_deadline": "2026-10-06",
+      "write_date": "2026-10-01 08:40:27",
+      "tag_ids": []
+    },
+    {
+      "id": 59,
+      "name": "Projet - SWAP",
+      "partner_name": false,
+      "stage_id": [
+        16,
+        "INTRIGUÉ"
+      ],
+      "expected_revenue": 0.0,
+      "probability": 97.63,
+      "activity_summary": "passé pour rdv",
+      "activity_date_deadline": "2026-10-01",
+      "write_date": "2026-10-01 07:32:06",
+      "tag_ids": [
+        1
+      ]
+    },
+    {
+      "id": 58,
+      "name": "Projet - AVRIL",
+      "partner_name": "Avril",
+      "stage_id": [
+        3,
+        "PAS DÉCISIONNAIRE"
+      ],
+      "expected_revenue": 0.0,
+      "probability": 96.26,
+      "activity_summary": "Relance - 9h à 11h",
+      "activity_date_deadline": "2026-09-30",
+      "write_date": "2026-10-01 08:40:19",
+      "tag_ids": []
+    },
+    {
+      "id": 57,
+      "name": "Projet - KZA TOULOUSE",
+      "partner_name": false,
+      "stage_id": [
+        2,
+        "DÉMARCHÉ (A RELANCER)"
+      ],
+      "expected_revenue": 0.0,
+      "probability": 94.57,
+      "activity_summary": "To-Do",
+      "activity_date_deadline": "2026-09-29",
+      "write_date": "2026-09-18 09:42:43",
+      "tag_ids": []
+    },
+    {
+      "id": 56,
+      "name": "Projet - Dressing De Charly",
+      "partner_name": false,
+      "stage_id": [
+        13,
+        "PAS INTÉRESSÉ"
+      ],
+      "expected_revenue": 0.0,
+      "probability": 94.57,
+      "activity_summary": false,
+      "activity_date_deadline": false,
+      "write_date": "2026-10-01 08:14:30",
+      "tag_ids": []
+    },
+    {
+      "id": 55,
+      "name": "Projet - OKLA",
+      "partner_name": false,
+      "stage_id": [
+        16,
+        "INTRIGUÉ"
+      ],
+      "expected_revenue": 0.0,
+      "probability": 96.26,
+      "activity_summary": "passe voir suite mail",
+      "activity_date_deadline": "2026-10-01",
+      "write_date": "2026-09-18 09:07:53",
+      "tag_ids": []
+    },
+    {
+      "id": 54,
+      "name": "Projet - ECUME STORE",
+      "partner_name": "Ecume Store",
+      "stage_id": [
+        13,
+        "PAS INTÉRESSÉ"
+      ],
+      "expected_revenue": 0.0,
+      "probability": 96.26,
+      "activity_summary": false,
+      "activity_date_deadline": false,
+      "write_date": "2026-10-01 08:32:43",
+      "tag_ids": []
+    },
+    {
+      "id": 53,
+      "name": "Projet - Andy Kouby",
+      "partner_name": false,
+      "stage_id": [
+        6,
+        "INTÉRESSÉ"
+      ],
+      "expected_revenue": 0.0,
+      "probability": 98.97,
+      "activity_summary": "Check la boutique O LE BAZAR",
+      "activity_date_deadline": "2026-09-29",
+      "write_date": "2026-09-18 09:53:56",
+      "tag_ids": [
+        5
+      ]
+    },
+    {
+      "id": 52,
+      "name": "Projet - QUARTIER LIBRE PAPIER",
+      "partner_name": "Quartier Libre Papier",
+      "stage_id": [
+        2,
+        "DÉMARCHÉ (A RELANCER)"
+      ],
+      "expected_revenue": 0.0,
+      "probability": 95.45,
+      "activity_summary": "To-Do",
+      "activity_date_deadline": "2026-09-29",
+      "write_date": "2026-04-29 08:50:24",
+      "tag_ids": []
+    },
+    {
+      "id": 51,
+      "name": "Projet - ETOILE DE SONGE",
+      "partner_name": "ETOILE DE SONGE",
+      "stage_id": [
+        2,
+        "DÉMARCHÉ (A RELANCER)"
+      ],
+      "expected_revenue": 0.0,
+      "probability": 95.45,
+      "activity_summary": "To-Do",
+      "activity_date_deadline": "2026-09-29",
+      "write_date": "2026-05-04 18:10:14",
+      "tag_ids": []
+    },
+    {
+      "id": 50,
+      "name": "Projet - MADEMOISELLE NUAGE",
+      "partner_name": "MADEMOISELLE NUAGE",
+      "stage_id": [
+        13,
+        "PAS INTÉRESSÉ"
+      ],
+      "expected_revenue": 0.0,
+      "probability": 95.45,
+      "activity_summary": false,
+      "activity_date_deadline": false,
+      "write_date": "2026-05-12 07:13:56",
+      "tag_ids": []
+    },
+    {
+      "id": 49,
+      "name": "Projet - CASA AZUL",
+      "partner_name": "CASA AZUL",
+      "stage_id": [
+        2,
+        "DÉMARCHÉ (A RELANCER)"
+      ],
+      "expected_revenue": 0.0,
+      "probability": 95.45,
+      "activity_summary": "To-Do",
+      "activity_date_deadline": "2026-09-29",
+      "write_date": "2026-04-29 09:46:56",
+      "tag_ids": []
+    },
+    {
+      "id": 48,
+      "name": "Projet - BY LILOU",
+      "partner_name": false,
+      "stage_id": [
+        13,
+        "PAS INTÉRESSÉ"
+      ],
+      "expected_revenue": 0.0,
+      "probability": 98.97,
+      "activity_summary": "To-Do",
+      "activity_date_deadline": "2026-09-30",
+      "write_date": "2026-10-01 08:46:50",
+      "tag_ids": []
+    },
+    {
+      "id": 47,
+      "name": "Projet - Florence Papeterie",
+      "partner_name": false,
+      "stage_id": [
+        4,
+        "ACTIF"
+      ],
+      "expected_revenue": 0.0,
+      "probability": 100.0,
+      "activity_summary": "Appeler",
+      "activity_date_deadline": "2026-09-23",
+      "write_date": "2026-09-16 16:12:29",
+      "tag_ids": [
+        4
+      ]
+    },
+    {
+      "id": 46,
+      "name": "Projet - PIPIA ET COMPAGNIE",
+      "partner_name": false,
+      "stage_id": [
+        6,
+        "INTÉRESSÉ"
+      ],
+      "expected_revenue": 0.0,
+      "probability": 98.97,
+      "activity_summary": "To-Do",
+      "activity_date_deadline": "2026-09-29",
+      "write_date": "2026-10-01 08:48:00",
+      "tag_ids": []
+    },
+    {
+      "id": 45,
+      "name": "Projet - Capsule Végétale",
+      "partner_name": false,
+      "stage_id": [
+        1,
+        "PROSPECT IDENTIFIÉ"
+      ],
+      "expected_revenue": 0.0,
+      "probability": 77.07,
+      "activity_summary": "To-Do",
+      "activity_date_deadline": "2026-09-29",
+      "write_date": "2026-04-04 17:54:13",
+      "tag_ids": [
+        2
+      ]
+    },
+    {
+      "id": 44,
+      "name": "Projet - L'IDEE Toulouse",
+      "partner_name": false,
+      "stage_id": [
+        13,
+        "PAS INTÉRESSÉ"
+      ],
+      "expected_revenue": 0.0,
+      "probability": 95.45,
+      "activity_summary": "Appeler",
+      "activity_date_deadline": "2027-02-16",
+      "write_date": "2026-09-16 13:50:49",
+      "tag_ids": [
+        2
+      ]
+    },
+    {
+      "id": 43,
+      "name": "Projet - MERIC BOUTIQUE",
+      "partner_name": "MERIC BOUTIQUE",
+      "stage_id": [
+        13,
+        "PAS INTÉRESSÉ"
+      ],
+      "expected_revenue": 0.0,
+      "probability": 98.48,
+      "activity_summary": "To-Do",
+      "activity_date_deadline": "2027-01-05",
+      "write_date": "2026-09-18 09:50:30",
+      "tag_ids": [
+        2
+      ]
+    },
+    {
+      "id": 42,
+      "name": "Projet - Trait Mobilier",
+      "partner_name": false,
+      "stage_id": [
+        13,
+        "PAS INTÉRESSÉ"
+      ],
+      "expected_revenue": 0.0,
+      "probability": 98.48,
+      "activity_summary": false,
+      "activity_date_deadline": false,
+      "write_date": "2026-10-01 08:05:56",
+      "tag_ids": [
+        2
+      ]
+    },
+    {
+      "id": 41,
+      "name": "Projet - Les Traits Français",
+      "partner_name": "Les Traits Français",
+      "stage_id": [
+        13,
+        "PAS INTÉRESSÉ"
+      ],
+      "expected_revenue": 0.0,
+      "probability": 95.45,
+      "activity_summary": false,
+      "activity_date_deadline": false,
+      "write_date": "2026-05-12 10:21:21",
+      "tag_ids": []
+    },
+    {
+      "id": 40,
+      "name": "Projet - VERVEINE MENTHE",
+      "partner_name": "VERVEINE MENTHE",
+      "stage_id": [
+        1,
+        "PROSPECT IDENTIFIÉ"
+      ],
+      "expected_revenue": 0.0,
+      "probability": 0.0,
+      "activity_summary": "To-Do",
+      "activity_date_deadline": "2026-09-29",
+      "write_date": "2026-04-04 17:46:31",
+      "tag_ids": [
+        2
+      ]
+    },
+    {
+      "id": 39,
+      "name": "Projet - LA LOGE DU CONCIERGE",
+      "partner_name": "LA LOGE DU CONCIERGE",
+      "stage_id": [
+        1,
+        "PROSPECT IDENTIFIÉ"
+      ],
+      "expected_revenue": 0.0,
+      "probability": 77.07,
+      "activity_summary": "To-Do",
+      "activity_date_deadline": "2026-09-29",
+      "write_date": "2026-04-04 17:44:54",
+      "tag_ids": [
+        2
+      ]
+    },
+    {
+      "id": 38,
+      "name": "Projet - MG Design",
+      "partner_name": false,
+      "stage_id": [
+        16,
+        "INTRIGUÉ"
+      ],
+      "expected_revenue": 0.0,
+      "probability": 98.97,
+      "activity_summary": false,
+      "activity_date_deadline": false,
+      "write_date": "2026-10-01 08:40:07",
+      "tag_ids": [
+        2
+      ]
+    },
+    {
+      "id": 37,
+      "name": "Projet - Carpe Diem Déco",
+      "partner_name": false,
+      "stage_id": [
+        1,
+        "PROSPECT IDENTIFIÉ"
+      ],
+      "expected_revenue": 0.0,
+      "probability": 77.07,
+      "activity_summary": "To-Do",
+      "activity_date_deadline": "2026-09-22",
+      "write_date": "2026-04-04 17:55:38",
+      "tag_ids": [
+        2
+      ]
+    },
+    {
+      "id": 36,
+      "name": "Projet - Atypique Concept Store",
+      "partner_name": false,
+      "stage_id": [
+        13,
+        "PAS INTÉRESSÉ"
+      ],
+      "expected_revenue": 0.0,
+      "probability": 0.0,
+      "activity_summary": "To-Do",
+      "activity_date_deadline": "2027-01-05",
+      "write_date": "2026-09-18 09:49:54",
+      "tag_ids": [
+        2
+      ]
+    },
+    {
+      "id": 35,
+      "name": "Projet - TRENTOTTO",
+      "partner_name": "TRENTOTTO",
+      "stage_id": [
+        13,
+        "PAS INTÉRESSÉ"
+      ],
+      "expected_revenue": 0.0,
+      "probability": 0.0,
+      "activity_summary": false,
+      "activity_date_deadline": false,
+      "write_date": "2026-09-18 09:46:56",
+      "tag_ids": [
+        2
+      ]
+    },
+    {
+      "id": 32,
+      "name": "Projet - ETHIC ET CHIC",
+      "partner_name": false,
+      "stage_id": [
+        2,
+        "DÉMARCHÉ (A RELANCER)"
+      ],
+      "expected_revenue": 0.0,
+      "probability": 50.0,
+      "activity_summary": "To-Do",
+      "activity_date_deadline": "2026-09-29",
+      "write_date": "2026-03-26 09:57:20",
+      "tag_ids": []
+    },
+    {
+      "id": 31,
+      "name": "Projet - La Papétheque",
+      "partner_name": false,
+      "stage_id": [
+        14,
+        "A REVOIR PLUS TARD"
+      ],
+      "expected_revenue": 0.0,
+      "probability": 50.0,
+      "activity_summary": false,
+      "activity_date_deadline": false,
+      "write_date": "2026-03-26 10:02:28",
+      "tag_ids": []
+    },
+    {
+      "id": 30,
+      "name": "Projet - Ecklat TSE La Vie à petit prix",
+      "partner_name": false,
+      "stage_id": [
+        14,
+        "A REVOIR PLUS TARD"
+      ],
+      "expected_revenue": 0.0,
+      "probability": 94.57,
+      "activity_summary": "Passé car pas de téléphone",
+      "activity_date_deadline": "2027-03-16",
+      "write_date": "2026-09-18 12:45:39",
+      "tag_ids": []
+    },
+    {
+      "id": 29,
+      "name": "Projet - Muy Mucho",
+      "partner_name": false,
+      "stage_id": [
+        16,
+        "INTRIGUÉ"
+      ],
+      "expected_revenue": 0.0,
+      "probability": 50.0,
+      "activity_summary": "To-Do",
+      "activity_date_deadline": "2026-09-29",
+      "write_date": "2026-03-26 10:15:48",
+      "tag_ids": []
+    },
+    {
+      "id": 28,
+      "name": "Projet - My Home My Dear",
+      "partner_name": "My Home My Dear",
+      "stage_id": [
+        16,
+        "INTRIGUÉ"
+      ],
+      "expected_revenue": 0.0,
+      "probability": 50.0,
+      "activity_summary": "To-Do",
+      "activity_date_deadline": "2026-09-29",
+      "write_date": "2026-03-19 21:47:32",
+      "tag_ids": []
+    },
+    {
+      "id": 27,
+      "name": "Projet - Herea Boutique",
+      "partner_name": false,
+      "stage_id": [
+        15,
+        "MULTI-DÉCISIONNAIRE"
+      ],
+      "expected_revenue": 0.0,
+      "probability": 77.07,
+      "activity_summary": "To-Do",
+      "activity_date_deadline": "2026-11-25",
+      "write_date": "2026-04-07 14:06:00",
+      "tag_ids": []
+    },
+    {
+      "id": 26,
+      "name": "Projet - Génération",
+      "partner_name": false,
+      "stage_id": [
+        13,
+        "PAS INTÉRESSÉ"
+      ],
+      "expected_revenue": 0.0,
+      "probability": 96.26,
+      "activity_summary": false,
+      "activity_date_deadline": false,
+      "write_date": "2026-09-18 09:47:37",
+      "tag_ids": []
+    },
+    {
+      "id": 25,
+      "name": "Projet - La Maison de Malaure",
+      "partner_name": "La Maison de Malaure",
+      "stage_id": [
+        13,
+        "PAS INTÉRESSÉ"
+      ],
+      "expected_revenue": 0.0,
+      "probability": 50.0,
+      "activity_summary": false,
+      "activity_date_deadline": false,
+      "write_date": "2026-03-19 21:46:16",
+      "tag_ids": []
+    },
+    {
+      "id": 24,
+      "name": "Projet - Look By Lia",
+      "partner_name": false,
+      "stage_id": [
+        4,
+        "ACTIF"
+      ],
+      "expected_revenue": 0.0,
+      "probability": 100.0,
+      "activity_summary": "Appeler",
+      "activity_date_deadline": "2026-09-22",
+      "write_date": "2026-09-16 16:12:30",
+      "tag_ids": []
+    },
+    {
+      "id": 23,
+      "name": "Projet - Fleurs Sauvages",
+      "partner_name": false,
+      "stage_id": [
+        2,
+        "DÉMARCHÉ (A RELANCER)"
+      ],
+      "expected_revenue": 0.0,
+      "probability": 50.0,
+      "activity_summary": "Appeler",
+      "activity_date_deadline": "2026-09-29",
+      "write_date": "2026-03-19 21:45:38",
+      "tag_ids": []
+    },
+    {
+      "id": 22,
+      "name": "Projet - Pandemonium",
+      "partner_name": false,
+      "stage_id": [
+        17,
+        "Monsieur Oui"
+      ],
+      "expected_revenue": 0.0,
+      "probability": 93.34,
+      "activity_summary": "To-Do",
+      "activity_date_deadline": "2026-10-01",
+      "write_date": "2026-09-18 09:35:42",
+      "tag_ids": []
+    },
+    {
+      "id": 21,
+      "name": "Projet - QUÉ FAS? - Concept Store",
+      "partner_name": false,
+      "stage_id": [
+        13,
+        "PAS INTÉRESSÉ"
+      ],
+      "expected_revenue": 0.0,
+      "probability": 95.45,
+      "activity_summary": false,
+      "activity_date_deadline": false,
+      "write_date": "2026-05-12 07:16:20",
+      "tag_ids": [
+        2
+      ]
+    },
+    {
+      "id": 20,
+      "name": "Projet - KALI-YOG",
+      "partner_name": false,
+      "stage_id": [
+        4,
+        "ACTIF"
+      ],
+      "expected_revenue": 0.0,
+      "probability": 100.0,
+      "activity_summary": "Appeler",
+      "activity_date_deadline": "2026-09-22",
+      "write_date": "2026-09-16 16:12:32",
+      "tag_ids": [
+        1
+      ]
+    },
+    {
+      "id": 19,
+      "name": "Projet - L'INTERPRETE",
+      "partner_name": "L'INTERPRETE",
+      "stage_id": [
+        13,
+        "PAS INTÉRESSÉ"
+      ],
+      "expected_revenue": 0.0,
+      "probability": 95.45,
+      "activity_summary": false,
+      "activity_date_deadline": false,
+      "write_date": "2026-05-04 14:36:27",
+      "tag_ids": []
+    },
+    {
+      "id": 17,
+      "name": "Projet - ARGILE STUDIO",
+      "partner_name": false,
+      "stage_id": [
+        16,
+        "INTRIGUÉ"
+      ],
+      "expected_revenue": 0.0,
+      "probability": 50.0,
+      "activity_summary": false,
+      "activity_date_deadline": "2026-09-29",
+      "write_date": "2026-03-19 21:43:14",
+      "tag_ids": []
+    },
+    {
+      "id": 16,
+      "name": "Projet - SLOW Concept",
+      "partner_name": "SLOW Concept",
+      "stage_id": [
+        6,
+        "INTÉRESSÉ"
+      ],
+      "expected_revenue": 0.0,
+      "probability": 77.07,
+      "activity_summary": "voir pour solde",
+      "activity_date_deadline": "2026-10-01",
+      "write_date": "2026-04-09 06:01:44",
+      "tag_ids": []
+    },
+    {
+      "id": 15,
+      "name": "Projet - N°45",
+      "partner_name": false,
+      "stage_id": [
+        17,
+        "Monsieur Oui"
+      ],
+      "expected_revenue": 0.0,
+      "probability": 99.25,
+      "activity_summary": "To-Do",
+      "activity_date_deadline": "2026-10-08",
+      "write_date": "2026-09-18 07:43:41",
+      "tag_ids": []
+    },
+    {
+      "id": 14,
+      "name": "Projet - LE LINGE DE SOPHIE",
+      "partner_name": "LE LINGE DE SOPHIE",
+      "stage_id": [
+        13,
+        "PAS INTÉRESSÉ"
+      ],
+      "expected_revenue": 0.0,
+      "probability": 95.45,
+      "activity_summary": false,
+      "activity_date_deadline": false,
+      "write_date": "2026-05-04 18:08:20",
+      "tag_ids": []
+    },
+    {
+      "id": 12,
+      "name": "Projet - BAMBINOU.COM",
+      "partner_name": "BAMBINOU.COM",
+      "stage_id": [
+        3,
+        "PAS DÉCISIONNAIRE"
+      ],
+      "expected_revenue": 0.0,
+      "probability": 98.97,
+      "activity_summary": "Appeler",
+      "activity_date_deadline": "2026-09-29",
+      "write_date": "2026-10-01 08:47:05",
+      "tag_ids": []
+    },
+    {
+      "id": 11,
+      "name": "Projet - Minima",
+      "partner_name": "Minima",
+      "stage_id": [
+        4,
+        "ACTIF"
+      ],
+      "expected_revenue": 0.0,
+      "probability": 100.0,
+      "activity_summary": "To-Do",
+      "activity_date_deadline": "2026-09-22",
+      "write_date": "2026-04-09 06:02:30",
+      "tag_ids": []
+    },
+    {
+      "id": 10,
+      "name": "Projet - Boutique Vous",
+      "partner_name": "VOUS GROUP",
+      "stage_id": [
+        6,
+        "INTÉRESSÉ"
+      ],
+      "expected_revenue": 0.0,
+      "probability": 98.97,
+      "activity_summary": "To-Do",
+      "activity_date_deadline": "2026-09-29",
+      "write_date": "2026-10-01 08:47:47",
+      "tag_ids": []
+    },
+    {
+      "id": 9,
+      "name": "Projet - Chez Henry",
+      "partner_name": false,
+      "stage_id": [
+        5,
+        "CONTACT RÉCUPÉRÉ"
+      ],
+      "expected_revenue": 0.0,
+      "probability": 91.67,
+      "activity_summary": "To-Do",
+      "activity_date_deadline": "2026-09-29",
+      "write_date": "2026-03-19 21:39:41",
+      "tag_ids": []
+    },
+    {
+      "id": 8,
+      "name": "Projet - TRANS-SHIRT TOULOUSE",
+      "partner_name": "TRANS-SHIRT TOULOUSE",
+      "stage_id": [
+        4,
+        "ACTIF"
+      ],
+      "expected_revenue": 0.0,
+      "probability": 100.0,
+      "activity_summary": "To-Do",
+      "activity_date_deadline": "2026-09-22",
+      "write_date": "2026-09-16 16:12:34",
+      "tag_ids": []
+    },
+    {
+      "id": 7,
+      "name": "Projet - LES SISTERETTES",
+      "partner_name": "LES SISTERETTES",
+      "stage_id": [
+        3,
+        "PAS DÉCISIONNAIRE"
+      ],
+      "expected_revenue": 0.0,
+      "probability": 50.0,
+      "activity_summary": "E-mail",
+      "activity_date_deadline": "2026-09-29",
+      "write_date": "2026-03-19 21:34:09",
+      "tag_ids": []
+    },
+    {
+      "id": 6,
+      "name": "Projet - Haut Les Mains",
+      "partner_name": false,
+      "stage_id": [
+        13,
+        "PAS INTÉRESSÉ"
+      ],
+      "expected_revenue": 0.0,
+      "probability": 98.48,
+      "activity_summary": false,
+      "activity_date_deadline": false,
+      "write_date": "2026-09-18 12:51:41",
+      "tag_ids": []
+    },
+    {
+      "id": 5,
+      "name": "Projet - CHEZ ZEL",
+      "partner_name": "CHEZ ZEL",
+      "stage_id": [
+        10,
+        "A ONBOARDER"
+      ],
+      "expected_revenue": 0.0,
+      "probability": 97.37,
+      "activity_summary": "passer pour paniers",
+      "activity_date_deadline": "2026-09-29",
+      "write_date": "2026-04-08 10:38:37",
+      "tag_ids": [
+        2
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Projet - Boutique TARA",
+      "partner_name": "Boutique TARA",
+      "stage_id": [
+        13,
+        "PAS INTÉRESSÉ"
+      ],
+      "expected_revenue": 0.0,
+      "probability": 98.97,
+      "activity_summary": "passer en septembre",
+      "activity_date_deadline": "2027-01-05",
+      "write_date": "2026-09-18 12:44:56",
+      "tag_ids": []
+    },
+    {
+      "id": 3,
+      "name": "Projet - SMART",
+      "partner_name": "SMART",
+      "stage_id": [
+        6,
+        "INTÉRESSÉ"
+      ],
+      "expected_revenue": 0.0,
+      "probability": 50.0,
+      "activity_summary": "Appeler",
+      "activity_date_deadline": "2026-10-05",
+      "write_date": "2026-03-19 21:52:26",
+      "tag_ids": []
+    },
+    {
+      "id": 2,
+      "name": "Projet - Maison Habiague",
+      "partner_name": "Maison Habiague",
+      "stage_id": [
+        14,
+        "A REVOIR PLUS TARD"
+      ],
+      "expected_revenue": 0.0,
+      "probability": 98.97,
+      "activity_summary": "Prendre nouvelle braderie septembre",
+      "activity_date_deadline": "2026-10-20",
+      "write_date": "2026-09-18 12:51:12",
+      "tag_ids": []
+    },
+    {
+      "id": 1,
+      "name": "Projet - MODI-IN",
+      "partner_name": "MODI-IN",
+      "stage_id": [
+        2,
+        "DÉMARCHÉ (A RELANCER)"
+      ],
+      "expected_revenue": 0.0,
+      "probability": 95.45,
+      "activity_summary": "Appeler pour rdv vers 15h",
+      "activity_date_deadline": "2026-10-08",
+      "write_date": "2026-05-11 11:12:09",
+      "tag_ids": []
+    }
+  ]
+}
