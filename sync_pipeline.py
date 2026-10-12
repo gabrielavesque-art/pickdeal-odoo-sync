@@ -18,7 +18,7 @@ models = xmlrpc.client.ServerProxy(f"{URL}/xmlrpc/2/object")
 # Tous les champs utiles d'une fiche prospect/opportunité
 LEAD_FIELDS = [
     "name", "partner_name", "contact_name",
-    "email_from", "phone", "mobile",
+    "email_from", "phone",
     "stage_id", "probability", "expected_revenue",
     "description",            # le champ "Notes" visible sur la fiche
     "tag_ids", "user_id",      # vendeur assigné
