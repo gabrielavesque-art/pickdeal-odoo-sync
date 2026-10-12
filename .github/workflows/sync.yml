@@ -2,8 +2,8 @@ name: Sync Odoo Pipeline
 
 on:
   schedule:
-    - cron: "0 * * * *"   # toutes les heures
-  workflow_dispatch:        # bouton "Run workflow" manuel dans l'onglet Actions
+    - cron: "*/15 * * * *"   # toutes les 15 minutes
+  workflow_dispatch:
 
 jobs:
   sync:
