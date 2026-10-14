@@ -1,5 +1,5 @@
 {
-  "synced_at": "2026-10-14T08:44:51.521906+00:00",
+  "synced_at": "2026-10-14T11:10:27.157925+00:00",
   "count": 55,
   "leads": [
     {
@@ -157,14 +157,14 @@
         {
           "date": "2026-09-20 15:17:41",
           "author": "OdooBot",
-          "type": "notification",
-          "body": "<p>Piste enrichie à partir de l'adresse e-mail</p>\n        <div class=\"o_partner_autocomplete_enrich_info p-3 mt-3 mb-3 me-5\">\n            <div class=\"row p-0 m-0\">\n            <div class=\"col-sm-10 p-0\">\n                <h4>\n                    <span class=\"me-3 align-middle\">Avril</span>\n                    <a class=\"ms-2\" target=\"_blank\" href=\"http://www.facebook.com/avril.cosmetique\">\n                        <img src=\"/mail/font_to_img/61570/rgb(59,89,152)/22\">\n                    </a>\n                    <a class=\"ms-2\" target=\"_blank\" href=\"https://www.linkedin.com/company/avrilcosmetique\">\n                        <img src=\"/mail/font_to_img/61580/rgb(0,119,181)/22\">\n                    </a>\n                </h4>\n                <p>AVRIL est une nouvelle marque de cosmétiques qui cultive deux valeurs fondamentales : la qualité et l’écologie.    &gt;&gt; La qualité AVRIL  Tous les produits sont élaborés dans le respect des normes françaises et européennes.   Les gammes bio sont certifié...</p>\n            </div>\n            </div>\n            <hr>\n\n            <div class=\"col-sm-12 row m-0 p-0\">\n                <div class=\"d-flex my-1 p-0 col-sm-3\">\n                    <i class=\"fa fa-fw me-2 fa-calendar text-primary\"></i>\n                    <b>Founded</b>\n                </div>\n                <div class=\"my-1 col-sm-9\">2012</div>\n                <div class=\"d-flex my-1 p-0 col-sm-3\">\n                    <i class=\"fa fa-fw me-2 fa-industry text-primary\"></i>\n                    <b>Sectors</b>\n                </div>\n                <div class=\"my-1 col-sm-9\">\n                        <label class=\"o_tag o_tag_color_7\" style=\"font-weight:normal; padding:2px 10px; margin:1px 0px; border-radius:13px; display:inline-block\">Consumer Staples</label>\n                        <label class=\"o_tag o_tag_color_7\" style=\"font-weight:normal; padding:2px 10px; margin:1px 0px; border-radius:13px; display:inline-block\">Personal Products</label>\n                        <label class=\"o_tag o_tag_color_7\" style=\"font-weight:normal; padding:2px 10px; margin:1px 0px; border-radius:13px; display:inline-block\">Household &amp; Personal Products</label>\n                        <label class=\"o_tag o_tag_color_7\" style=\"font-weight:normal; padding:2px 10px; margin:1px 0px; border-radius:13px; display:inline-block\">Cosmetics</label>\n                </div>\n                <div class=\"d-flex my-1 p-0 col-sm-3\">\n                    <i class=\"fa fa-fw me-2 fa-users text-primary\"></i>\n                    <b>Employees</b>\n                </div>\n                <div class=\"my-1 col-sm-9\">300</div>\n                <div class=\"d-flex my-1 p-0 col-sm-3\">\n                    <i class=\"fa fa-fw me-2 fa-globe text-primary\"></i>\n                    <b>Timezone</b>\n                </div>\n                <div class=\"my-1 col-sm-9\">Europe/Paris</div>\n                <div class=\"d-flex my-1 p-0 col-sm-3\">\n                    <i class=\"fa fa-fw me-2 fa-cube text-primary\"></i>\n                    <b>Technologies Used</b>\n                </div>\n                <div class=\"my-1 col-sm-9\">\n                        <label class=\"o_tag o_tag_color_7\" style=\"font-weight:normal; padding:2px 10px; margin:1px 0px; border-radius:13px; display:inline-block\">Google Apps</label>\n                        <label class=\"o_tag o_tag_color_7\" style=\"font-weight:normal; padding:2px 10px; margin:1px 0px; border-radius:13px; display:inline-block\">Google Analytics</label>\n                        <label class=\"o_tag o_tag_color_7\" style=\"font-weight:normal; padding:2px 10px; margin:1px 0px; border-radius:13px; display:inline-block\">Facebook Advertiser</label>\n                        <label class=\"o_tag o_tag_color_7\" style=\"font-weight:normal; padding:2px 10px; margin:1px 0px; border-radius:13px; display:inline-block\">Facebook Connect</label>\n                        <label class=\"o_tag o_tag_color_7\" style=\"font-weight:normal; padding:2px 10px; margin:1px 0px; border-radius:13px; display:inline-block\">Apache</label>\n                        <label class=\"o_tag o_tag_color_7\" style=\"font-weight:normal; padding:2px 10px; margin:1px 0px; border-radius:13px; display:inline-block\">Recaptcha</label>\n                        <label class=\"o_tag o_tag_color_7\" style=\"font-weight:normal; padding:2px 10px; margin:1px 0px; border-radius:13px; display:inline-block\">Presta Shop</label>\n                </div>\n            </div>\n            <div class=\"col-sm-12 row m-0 p-0\">\n                <div class=\"my-1 col-sm-9\">\n                    <div class=\"o_address_format\">\n                    </div>\n                </div>\n            </div>\n        </div>"
+          "type": "tracking",
+          "body": "<div>None → <b>Avril</b> <i>(Nom de la société)</i><br>None → <b>59800 Lille, France</b> <i>(Rue)</i><br>None → <b>59800</b> <i>(Code postal)</i><br>None → <b>Lille</b> <i>(Ville)</i><br>None → <b>France</b> <i>(Pays)</i></div>"
         },
         {
           "date": "2026-09-20 15:17:41",
           "author": "OdooBot",
-          "type": "tracking",
-          "body": "<div>None → <b>Avril</b> <i>(Nom de la société)</i><br>None → <b>59800 Lille, France</b> <i>(Rue)</i><br>None → <b>59800</b> <i>(Code postal)</i><br>None → <b>Lille</b> <i>(Ville)</i><br>None → <b>France</b> <i>(Pays)</i></div>"
+          "type": "notification",
+          "body": "<p>Piste enrichie à partir de l'adresse e-mail</p>\n        <div class=\"o_partner_autocomplete_enrich_info p-3 mt-3 mb-3 me-5\">\n            <div class=\"row p-0 m-0\">\n            <div class=\"col-sm-10 p-0\">\n                <h4>\n                    <span class=\"me-3 align-middle\">Avril</span>\n                    <a class=\"ms-2\" target=\"_blank\" href=\"http://www.facebook.com/avril.cosmetique\">\n                        <img src=\"/mail/font_to_img/61570/rgb(59,89,152)/22\">\n                    </a>\n                    <a class=\"ms-2\" target=\"_blank\" href=\"https://www.linkedin.com/company/avrilcosmetique\">\n                        <img src=\"/mail/font_to_img/61580/rgb(0,119,181)/22\">\n                    </a>\n                </h4>\n                <p>AVRIL est une nouvelle marque de cosmétiques qui cultive deux valeurs fondamentales : la qualité et l’écologie.    &gt;&gt; La qualité AVRIL  Tous les produits sont élaborés dans le respect des normes françaises et européennes.   Les gammes bio sont certifié...</p>\n            </div>\n            </div>\n            <hr>\n\n            <div class=\"col-sm-12 row m-0 p-0\">\n                <div class=\"d-flex my-1 p-0 col-sm-3\">\n                    <i class=\"fa fa-fw me-2 fa-calendar text-primary\"></i>\n                    <b>Founded</b>\n                </div>\n                <div class=\"my-1 col-sm-9\">2012</div>\n                <div class=\"d-flex my-1 p-0 col-sm-3\">\n                    <i class=\"fa fa-fw me-2 fa-industry text-primary\"></i>\n                    <b>Sectors</b>\n                </div>\n                <div class=\"my-1 col-sm-9\">\n                        <label class=\"o_tag o_tag_color_7\" style=\"font-weight:normal; padding:2px 10px; margin:1px 0px; border-radius:13px; display:inline-block\">Consumer Staples</label>\n                        <label class=\"o_tag o_tag_color_7\" style=\"font-weight:normal; padding:2px 10px; margin:1px 0px; border-radius:13px; display:inline-block\">Personal Products</label>\n                        <label class=\"o_tag o_tag_color_7\" style=\"font-weight:normal; padding:2px 10px; margin:1px 0px; border-radius:13px; display:inline-block\">Household &amp; Personal Products</label>\n                        <label class=\"o_tag o_tag_color_7\" style=\"font-weight:normal; padding:2px 10px; margin:1px 0px; border-radius:13px; display:inline-block\">Cosmetics</label>\n                </div>\n                <div class=\"d-flex my-1 p-0 col-sm-3\">\n                    <i class=\"fa fa-fw me-2 fa-users text-primary\"></i>\n                    <b>Employees</b>\n                </div>\n                <div class=\"my-1 col-sm-9\">300</div>\n                <div class=\"d-flex my-1 p-0 col-sm-3\">\n                    <i class=\"fa fa-fw me-2 fa-globe text-primary\"></i>\n                    <b>Timezone</b>\n                </div>\n                <div class=\"my-1 col-sm-9\">Europe/Paris</div>\n                <div class=\"d-flex my-1 p-0 col-sm-3\">\n                    <i class=\"fa fa-fw me-2 fa-cube text-primary\"></i>\n                    <b>Technologies Used</b>\n                </div>\n                <div class=\"my-1 col-sm-9\">\n                        <label class=\"o_tag o_tag_color_7\" style=\"font-weight:normal; padding:2px 10px; margin:1px 0px; border-radius:13px; display:inline-block\">Google Apps</label>\n                        <label class=\"o_tag o_tag_color_7\" style=\"font-weight:normal; padding:2px 10px; margin:1px 0px; border-radius:13px; display:inline-block\">Google Analytics</label>\n                        <label class=\"o_tag o_tag_color_7\" style=\"font-weight:normal; padding:2px 10px; margin:1px 0px; border-radius:13px; display:inline-block\">Facebook Advertiser</label>\n                        <label class=\"o_tag o_tag_color_7\" style=\"font-weight:normal; padding:2px 10px; margin:1px 0px; border-radius:13px; display:inline-block\">Facebook Connect</label>\n                        <label class=\"o_tag o_tag_color_7\" style=\"font-weight:normal; padding:2px 10px; margin:1px 0px; border-radius:13px; display:inline-block\">Apache</label>\n                        <label class=\"o_tag o_tag_color_7\" style=\"font-weight:normal; padding:2px 10px; margin:1px 0px; border-radius:13px; display:inline-block\">Recaptcha</label>\n                        <label class=\"o_tag o_tag_color_7\" style=\"font-weight:normal; padding:2px 10px; margin:1px 0px; border-radius:13px; display:inline-block\">Presta Shop</label>\n                </div>\n            </div>\n            <div class=\"col-sm-12 row m-0 p-0\">\n                <div class=\"my-1 col-sm-9\">\n                    <div class=\"o_address_format\">\n                    </div>\n                </div>\n            </div>\n        </div>"
         },
         {
           "date": "2026-09-20 15:17:43",
@@ -871,14 +871,14 @@
         {
           "date": "2026-04-29 08:30:22",
           "author": "Pick&Deal, gabriel@pickanddeal.fr",
-          "type": "tracking",
-          "body": "None<b>fanny.feinte@gmail.com</b><i>E-mail</i><br><br>"
+          "type": "comment",
+          "body": "<p>06 69 (32) (82) 55<span class=\"o-mail-Message-edited\"></span></p>"
         },
         {
           "date": "2026-04-29 08:30:22",
           "author": "Pick&Deal, gabriel@pickanddeal.fr",
-          "type": "comment",
-          "body": "<p>06 69 (32) (82) 55<span class=\"o-mail-Message-edited\"></span></p>"
+          "type": "tracking",
+          "body": "None<b>fanny.feinte@gmail.com</b><i>E-mail</i><br><br>"
         },
         {
           "date": "2026-04-29 08:33:55",
@@ -4989,14 +4989,14 @@
         {
           "date": "2026-02-17 14:58:02",
           "author": "Pick&Deal, gabriel@pickanddeal.fr",
-          "type": "comment",
-          "body": "<p>J'ai appelé, j'ai eu la responsable qui a montré de l'interet pour l'idee,<br>Elle souhaite un mail recap et on envisagera une phase de test<br>\"carolarres@gmail.com\"</p>"
+          "type": "tracking",
+          "body": "None<b>+33 5 61 21 09 49</b><i>Téléphone</i><br>None<b>carolarres@gmail.com</b><i>E-mail</i><br><br>"
         },
         {
           "date": "2026-02-17 14:58:02",
           "author": "Pick&Deal, gabriel@pickanddeal.fr",
-          "type": "tracking",
-          "body": "None<b>+33 5 61 21 09 49</b><i>Téléphone</i><br>None<b>carolarres@gmail.com</b><i>E-mail</i><br><br>"
+          "type": "comment",
+          "body": "<p>J'ai appelé, j'ai eu la responsable qui a montré de l'interet pour l'idee,<br>Elle souhaite un mail recap et on envisagera une phase de test<br>\"carolarres@gmail.com\"</p>"
         },
         {
           "date": "2026-02-17 14:58:07",
@@ -5417,17 +5417,21 @@
           "author": "Pick&Deal, gabriel@pickanddeal.fr",
           "type": "comment",
           "body": "<p>je viens de l'appeler, etant tres occupé on se donne rdv ce vendredi 16/10 à 15h en visio, comme elle était pas sur d'etre dispo elle m'a dit que je l'appelle mercredi 14/10 pour quon se confirme ce rdv de vendredi</p>"
+        },
+        {
+          "date": "2026-10-14 10:58:38",
+          "author": "Pick&Deal, gabriel@pickanddeal.fr",
+          "type": "notification",
+          "body": "<div>\n    <p class=\"o_mail_activity_title\">\n        <span class=\"fa fa-phone fa-fw\"></span><span>Appeler</span> terminée\n        <span>: </span><span>Appeler mercredi pour confirmation RDV</span>\n    </p>\n</div>"
+        },
+        {
+          "date": "2026-10-14 10:58:57",
+          "author": "Pick&Deal, gabriel@pickanddeal.fr",
+          "type": "comment",
+          "body": "<p>rdv fixée le vendredi 16 à 15h</p>"
         }
       ],
       "activities": [
-        {
-          "summary": "Appeler mercredi pour confirmation RDV",
-          "note": false,
-          "type": "Call",
-          "date_deadline": "2026-10-14",
-          "created": "2026-03-26 10:08:22",
-          "assigned_to": "gabriel@pickanddeal.fr"
-        },
         {
           "summary": "RDV VENDREDI A 15H",
           "note": false,
