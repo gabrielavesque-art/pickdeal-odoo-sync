@@ -1,5 +1,5 @@
 {
-  "synced_at": "2026-10-20T07:32:02.347825+00:00",
+  "synced_at": "2026-10-20T12:59:42.645203+00:00",
   "count": 55,
   "leads": [
     {
@@ -432,14 +432,20 @@
           "author": "Pick&Deal, gabriel@pickanddeal.fr",
           "type": "notification",
           "body": "<div>\n    <p class=\"o_mail_activity_title\">\n        <span class=\"fa fa-check fa-fw\"></span><span>To-Do</span> terminée\n        <span>: </span><span>RDV JEUDI 15/10 à 15H</span>\n    </p>\n</div>"
+        },
+        {
+          "date": "2026-10-20 10:32:47",
+          "author": "Pick&Deal, gabriel@pickanddeal.fr",
+          "type": "comment",
+          "body": "<p>j'ai envoyé ses identifiants,<br>il faut prendre rdv pour r2</p>"
         }
       ],
       "activities": [
         {
-          "summary": "identifiants à envoyé",
+          "summary": "caler r2",
           "note": false,
           "type": "To-Do",
-          "date_deadline": "2026-10-16",
+          "date_deadline": "2026-10-20",
           "created": "2026-10-16 08:32:02",
           "assigned_to": "gabriel@pickanddeal.fr"
         }
@@ -482,14 +488,14 @@
         {
           "date": "2026-05-11 11:03:15",
           "author": "OdooBot",
-          "type": "tracking",
-          "body": "None<b>France</b><i>Rue</i><br>None<b>Ecume Store</b><i>Nom de la société</i><br><br>"
+          "type": "notification",
+          "body": "<p>Piste enrichie à partir de l'adresse e-mail</p>\n        <div class=\"o_partner_autocomplete_enrich_info p-3 mt-3 mb-3 me-5\">\n            <div class=\"row p-0 m-0\">\n            <div class=\"col-sm-10 p-0\">\n                <h4>\n                    <span class=\"me-3 align-middle\">Ecume Store</span>\n                    <a class=\"ms-2\" target=\"_blank\" href=\"https://www.linkedin.com/company/ecume-store\">\n                        <img src=\"/mail/font_to_img/61580/rgb(0,119,181)/22\">\n                    </a>\n                </h4>\n                <p>Ecume Store is a mixed wardrobe in Toulouse that offers a selection of ready-to-wear brands and accessories for men and women. They provide a range of brands such as Minimum fashion, Saye Brand, Ucon Acrobatics, Matt &amp; Nat, Thinking Mu, Edmmond Studios...</p>\n            </div>\n            <div class=\"col-sm-2 p-0 text-center text-md-end order-first order-md-last\">\n                <img alt=\"\" style=\"max-width:80px\" src=\"https://logo.clearbit.com/ecumestore.fr\">\n            </div>\n            </div>\n            <hr>\n\n            <div class=\"col-sm-12 row m-0 p-0\">\n                <div class=\"d-flex my-1 p-0 col-sm-3\">\n                    <i class=\"fa fa-fw me-2 fa-calendar text-primary\"></i>\n                    <b>Founded</b>\n                </div>\n                <div class=\"my-1 col-sm-9\">2021</div>\n                <div class=\"d-flex my-1 p-0 col-sm-3\">\n                    <i class=\"fa fa-fw me-2 fa-industry text-primary\"></i>\n                    <b>Sectors</b>\n                </div>\n                <div class=\"my-1 col-sm-9\">\n                        <label class=\"o_tag o_tag_color_7\" style=\"font-weight:normal; padding:2px 10px; margin:1px 0px; border-radius:13px; display:inline-block\">Consumer Discretionary</label>\n                        <label class=\"o_tag o_tag_color_7\" style=\"font-weight:normal; padding:2px 10px; margin:1px 0px; border-radius:13px; display:inline-block\">Retailing</label>\n                        <label class=\"o_tag o_tag_color_7\" style=\"font-weight:normal; padding:2px 10px; margin:1px 0px; border-radius:13px; display:inline-block\">Retailing</label>\n                        <label class=\"o_tag o_tag_color_7\" style=\"font-weight:normal; padding:2px 10px; margin:1px 0px; border-radius:13px; display:inline-block\">Retailing</label>\n                </div>\n                <div class=\"d-flex my-1 p-0 col-sm-3\">\n                    <i class=\"fa fa-fw me-2 fa-users text-primary\"></i>\n                    <b>Employees</b>\n                </div>\n                <div class=\"my-1 col-sm-9\">5</div>\n                <div class=\"d-flex my-1 p-0 col-sm-3\">\n                    <i class=\"fa fa-fw me-2 fa-money text-primary\"></i>\n                    <b>Estimated revenue</b>\n                </div>\n                <div class=\"my-1 col-sm-9\">\n                    <span>$0-$1M</span><span> per year</span>\n                </div>\n                <div class=\"d-flex my-1 p-0 col-sm-3\">\n                    <i class=\"fa fa-fw me-2 fa-globe text-primary\"></i>\n                    <b>Timezone</b>\n                </div>\n                <div class=\"my-1 col-sm-9\">Europe/Paris</div>\n                <div class=\"d-flex my-1 p-0 col-sm-3\">\n                    <i class=\"fa fa-fw me-2 fa-cube text-primary\"></i>\n                    <b>Technologies Used</b>\n                </div>\n                <div class=\"my-1 col-sm-9\">\n                        <label class=\"o_tag o_tag_color_7\" style=\"font-weight:normal; padding:2px 10px; margin:1px 0px; border-radius:13px; display:inline-block\">Hotjar</label>\n                        <label class=\"o_tag o_tag_color_7\" style=\"font-weight:normal; padding:2px 10px; margin:1px 0px; border-radius:13px; display:inline-block\">Google Analytics</label>\n                        <label class=\"o_tag o_tag_color_7\" style=\"font-weight:normal; padding:2px 10px; margin:1px 0px; border-radius:13px; display:inline-block\">Cloud Flare</label>\n                        <label class=\"o_tag o_tag_color_7\" style=\"font-weight:normal; padding:2px 10px; margin:1px 0px; border-radius:13px; display:inline-block\">Facebook Advertiser</label>\n                        <label class=\"o_tag o_tag_color_7\" style=\"font-weight:normal; padding:2px 10px; margin:1px 0px; border-radius:13px; display:inline-block\">Shopify</label>\n                </div>\n            </div>\n            <div class=\"col-sm-12 row m-0 p-0\">\n                <div class=\"my-1 col-sm-9\">\n                    <div class=\"o_address_format\">\n                    </div>\n                </div>\n            </div>\n        </div>"
         },
         {
           "date": "2026-05-11 11:03:15",
           "author": "OdooBot",
-          "type": "notification",
-          "body": "<p>Piste enrichie à partir de l'adresse e-mail</p>\n        <div class=\"o_partner_autocomplete_enrich_info p-3 mt-3 mb-3 me-5\">\n            <div class=\"row p-0 m-0\">\n            <div class=\"col-sm-10 p-0\">\n                <h4>\n                    <span class=\"me-3 align-middle\">Ecume Store</span>\n                    <a class=\"ms-2\" target=\"_blank\" href=\"https://www.linkedin.com/company/ecume-store\">\n                        <img src=\"/mail/font_to_img/61580/rgb(0,119,181)/22\">\n                    </a>\n                </h4>\n                <p>Ecume Store is a mixed wardrobe in Toulouse that offers a selection of ready-to-wear brands and accessories for men and women. They provide a range of brands such as Minimum fashion, Saye Brand, Ucon Acrobatics, Matt &amp; Nat, Thinking Mu, Edmmond Studios...</p>\n            </div>\n            <div class=\"col-sm-2 p-0 text-center text-md-end order-first order-md-last\">\n                <img alt=\"\" style=\"max-width:80px\" src=\"https://logo.clearbit.com/ecumestore.fr\">\n            </div>\n            </div>\n            <hr>\n\n            <div class=\"col-sm-12 row m-0 p-0\">\n                <div class=\"d-flex my-1 p-0 col-sm-3\">\n                    <i class=\"fa fa-fw me-2 fa-calendar text-primary\"></i>\n                    <b>Founded</b>\n                </div>\n                <div class=\"my-1 col-sm-9\">2021</div>\n                <div class=\"d-flex my-1 p-0 col-sm-3\">\n                    <i class=\"fa fa-fw me-2 fa-industry text-primary\"></i>\n                    <b>Sectors</b>\n                </div>\n                <div class=\"my-1 col-sm-9\">\n                        <label class=\"o_tag o_tag_color_7\" style=\"font-weight:normal; padding:2px 10px; margin:1px 0px; border-radius:13px; display:inline-block\">Consumer Discretionary</label>\n                        <label class=\"o_tag o_tag_color_7\" style=\"font-weight:normal; padding:2px 10px; margin:1px 0px; border-radius:13px; display:inline-block\">Retailing</label>\n                        <label class=\"o_tag o_tag_color_7\" style=\"font-weight:normal; padding:2px 10px; margin:1px 0px; border-radius:13px; display:inline-block\">Retailing</label>\n                        <label class=\"o_tag o_tag_color_7\" style=\"font-weight:normal; padding:2px 10px; margin:1px 0px; border-radius:13px; display:inline-block\">Retailing</label>\n                </div>\n                <div class=\"d-flex my-1 p-0 col-sm-3\">\n                    <i class=\"fa fa-fw me-2 fa-users text-primary\"></i>\n                    <b>Employees</b>\n                </div>\n                <div class=\"my-1 col-sm-9\">5</div>\n                <div class=\"d-flex my-1 p-0 col-sm-3\">\n                    <i class=\"fa fa-fw me-2 fa-money text-primary\"></i>\n                    <b>Estimated revenue</b>\n                </div>\n                <div class=\"my-1 col-sm-9\">\n                    <span>$0-$1M</span><span> per year</span>\n                </div>\n                <div class=\"d-flex my-1 p-0 col-sm-3\">\n                    <i class=\"fa fa-fw me-2 fa-globe text-primary\"></i>\n                    <b>Timezone</b>\n                </div>\n                <div class=\"my-1 col-sm-9\">Europe/Paris</div>\n                <div class=\"d-flex my-1 p-0 col-sm-3\">\n                    <i class=\"fa fa-fw me-2 fa-cube text-primary\"></i>\n                    <b>Technologies Used</b>\n                </div>\n                <div class=\"my-1 col-sm-9\">\n                        <label class=\"o_tag o_tag_color_7\" style=\"font-weight:normal; padding:2px 10px; margin:1px 0px; border-radius:13px; display:inline-block\">Hotjar</label>\n                        <label class=\"o_tag o_tag_color_7\" style=\"font-weight:normal; padding:2px 10px; margin:1px 0px; border-radius:13px; display:inline-block\">Google Analytics</label>\n                        <label class=\"o_tag o_tag_color_7\" style=\"font-weight:normal; padding:2px 10px; margin:1px 0px; border-radius:13px; display:inline-block\">Cloud Flare</label>\n                        <label class=\"o_tag o_tag_color_7\" style=\"font-weight:normal; padding:2px 10px; margin:1px 0px; border-radius:13px; display:inline-block\">Facebook Advertiser</label>\n                        <label class=\"o_tag o_tag_color_7\" style=\"font-weight:normal; padding:2px 10px; margin:1px 0px; border-radius:13px; display:inline-block\">Shopify</label>\n                </div>\n            </div>\n            <div class=\"col-sm-12 row m-0 p-0\">\n                <div class=\"my-1 col-sm-9\">\n                    <div class=\"o_address_format\">\n                    </div>\n                </div>\n            </div>\n        </div>"
+          "type": "tracking",
+          "body": "None<b>France</b><i>Rue</i><br>None<b>Ecume Store</b><i>Nom de la société</i><br><br>"
         },
         {
           "date": "2026-05-11 11:06:35",
@@ -895,14 +901,14 @@
         {
           "date": "2026-04-29 08:30:22",
           "author": "Pick&Deal, gabriel@pickanddeal.fr",
-          "type": "comment",
-          "body": "<p>06 69 (32) (82) 55<span class=\"o-mail-Message-edited\"></span></p>"
+          "type": "tracking",
+          "body": "None<b>fanny.feinte@gmail.com</b><i>E-mail</i><br><br>"
         },
         {
           "date": "2026-04-29 08:30:22",
           "author": "Pick&Deal, gabriel@pickanddeal.fr",
-          "type": "tracking",
-          "body": "None<b>fanny.feinte@gmail.com</b><i>E-mail</i><br><br>"
+          "type": "comment",
+          "body": "<p>06 69 (32) (82) 55<span class=\"o-mail-Message-edited\"></span></p>"
         },
         {
           "date": "2026-04-29 08:33:55",
@@ -1475,10 +1481,10 @@
       "email_from": "matiere-grise@hotmail.fr",
       "phone": "+33 6 63 76 23 22",
       "stage_id": [
-        8,
-        "RDV PLANIFIÉ"
+        10,
+        "A ONBOARDER"
       ],
-      "probability": 99.68,
+      "probability": 99.66,
       "expected_revenue": 0.0,
       "description": false,
       "tag_ids": [
@@ -1489,7 +1495,7 @@
         "gabriel@pickanddeal.fr"
       ],
       "create_date": "2026-04-04 17:43:10",
-      "write_date": "2026-10-14 12:07:48",
+      "write_date": "2026-10-20 10:31:33",
       "chatter": [
         {
           "date": "2026-04-04 17:43:10",
@@ -1568,15 +1574,39 @@
           "author": "Pick&Deal, gabriel@pickanddeal.fr",
           "type": "tracking",
           "body": "<div>INTRIGUÉ → <b>RDV PLANIFIÉ</b> <i>(Étape)</i></div>"
+        },
+        {
+          "date": "2026-10-20 10:30:18",
+          "author": "Pick&Deal, gabriel@pickanddeal.fr",
+          "type": "comment",
+          "body": "<p>j'ai eu le rdv, mr rabot n'etait pas la mais je l'ai eu au tel il valide, j'ai dois donc envoyé par mail les identifiants acces du site au mail et je passe mardi prochain (27/10) dans l'aprem pour poster un premier panier ensemble</p>"
+        },
+        {
+          "date": "2026-10-20 10:30:49",
+          "author": "Pick&Deal, gabriel@pickanddeal.fr",
+          "type": "notification",
+          "body": "<div>\n    <p class=\"o_mail_activity_title\">\n        <span class=\"fa fa-check fa-fw\"></span><span>To-Do</span> terminée\n        <span>: </span><span>RDV PHYSIQUE À 11h</span>\n    </p>\n</div>"
+        },
+        {
+          "date": "2026-10-20 10:31:29",
+          "author": "Pick&Deal, gabriel@pickanddeal.fr",
+          "type": "comment",
+          "body": "<p>j'ai pas aimé par contre quil soit pas la et qu'il previenne pas j'arrive pour le rdv je passe pour un con a ce quil soit pas la, j'ai bien rebondis mais bon je m'en rappelle quoi</p>"
+        },
+        {
+          "date": "2026-10-20 10:31:33",
+          "author": "Pick&Deal, gabriel@pickanddeal.fr",
+          "type": "tracking",
+          "body": "<div>RDV PLANIFIÉ → <b>A ONBOARDER</b> <i>(Étape)</i></div>"
         }
       ],
       "activities": [
         {
-          "summary": "RDV PHYSIQUE À 11h",
+          "summary": "identifiants",
           "note": false,
-          "type": "To-Do",
-          "date_deadline": "2026-10-20",
-          "created": "2026-10-12 15:49:54",
+          "type": "Email",
+          "date_deadline": "2026-10-21",
+          "created": "2026-10-20 10:31:46",
           "assigned_to": "gabriel@pickanddeal.fr"
         }
       ]
@@ -5040,14 +5070,14 @@
         {
           "date": "2026-02-17 14:58:02",
           "author": "Pick&Deal, gabriel@pickanddeal.fr",
-          "type": "tracking",
-          "body": "None<b>+33 5 61 21 09 49</b><i>Téléphone</i><br>None<b>carolarres@gmail.com</b><i>E-mail</i><br><br>"
+          "type": "comment",
+          "body": "<p>J'ai appelé, j'ai eu la responsable qui a montré de l'interet pour l'idee,<br>Elle souhaite un mail recap et on envisagera une phase de test<br>\"carolarres@gmail.com\"</p>"
         },
         {
           "date": "2026-02-17 14:58:02",
           "author": "Pick&Deal, gabriel@pickanddeal.fr",
-          "type": "comment",
-          "body": "<p>J'ai appelé, j'ai eu la responsable qui a montré de l'interet pour l'idee,<br>Elle souhaite un mail recap et on envisagera une phase de test<br>\"carolarres@gmail.com\"</p>"
+          "type": "tracking",
+          "body": "None<b>+33 5 61 21 09 49</b><i>Téléphone</i><br>None<b>carolarres@gmail.com</b><i>E-mail</i><br><br>"
         },
         {
           "date": "2026-02-17 14:58:07",
@@ -5486,15 +5516,27 @@
           "author": "Pick&Deal, gabriel@pickanddeal.fr",
           "type": "tracking",
           "body": "<div>DÉMARCHÉ (A RELANCER) → <b>RDV PLANIFIÉ</b> <i>(Étape)</i></div>"
+        },
+        {
+          "date": "2026-10-20 10:35:27",
+          "author": "Pick&Deal, gabriel@pickanddeal.fr",
+          "type": "comment",
+          "body": "<p>j'ai eu le rdv avec elle en visio vendredi 16/10 ca c hyper bien apssé<br><br>elle a plein d'invendu et est prete à faire du -50% et plus pour degager le stock<br>c'est la seule decisionnaire <br>je dois la voir ajd pour le r2 j'ai deja envoyer ses identifiants</p>"
+        },
+        {
+          "date": "2026-10-20 10:35:31",
+          "author": "Pick&Deal, gabriel@pickanddeal.fr",
+          "type": "notification",
+          "body": "<div>\n    <p class=\"o_mail_activity_title\">\n        <span class=\"fa fa-check fa-fw\"></span><span>To-Do</span> terminée\n        <span>: </span><span>RDV VENDREDI A 15H</span>\n    </p>\n</div>"
         }
       ],
       "activities": [
         {
-          "summary": "RDV VENDREDI A 15H",
+          "summary": "To-Do",
           "note": false,
           "type": "To-Do",
-          "date_deadline": "2026-10-16",
-          "created": "2026-10-12 15:38:57",
+          "date_deadline": "2026-10-20",
+          "created": "2026-10-20 10:40:48",
           "assigned_to": "gabriel@pickanddeal.fr"
         }
       ]
