@@ -1,5 +1,5 @@
 {
-  "synced_at": "2026-10-22T10:25:21.288170+00:00",
+  "synced_at": "2026-10-22T15:28:57.658565+00:00",
   "count": 55,
   "leads": [
     {
@@ -901,14 +901,14 @@
         {
           "date": "2026-04-29 08:30:22",
           "author": "Pick&Deal, gabriel@pickanddeal.fr",
-          "type": "tracking",
-          "body": "None<b>fanny.feinte@gmail.com</b><i>E-mail</i><br><br>"
+          "type": "comment",
+          "body": "<p>06 69 (32) (82) 55<span class=\"o-mail-Message-edited\"></span></p>"
         },
         {
           "date": "2026-04-29 08:30:22",
           "author": "Pick&Deal, gabriel@pickanddeal.fr",
-          "type": "comment",
-          "body": "<p>06 69 (32) (82) 55<span class=\"o-mail-Message-edited\"></span></p>"
+          "type": "tracking",
+          "body": "None<b>fanny.feinte@gmail.com</b><i>E-mail</i><br><br>"
         },
         {
           "date": "2026-04-29 08:33:55",
@@ -2268,6 +2268,12 @@
           "author": "Pick&Deal, gabriel@pickanddeal.fr",
           "type": "comment",
           "body": "<p>lui proposer des comission à 30% pouyr l'instant sinon</p>"
+        },
+        {
+          "date": "2026-10-22 14:07:08",
+          "author": "Pick&Deal, gabriel@pickanddeal.fr",
+          "type": "comment",
+          "body": "<p>noël 15€ et un autre noël 20€<br>arôme mikado  encens 20€<br><br>les 3 premiers panier à 10%<br>elle est pa la semaine pro donc je poste et lui tiens au courant</p>"
         }
       ],
       "activities": [
