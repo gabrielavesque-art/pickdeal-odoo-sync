@@ -1,5 +1,5 @@
 {
-  "synced_at": "2026-10-28T14:18:29.005106+00:00",
+  "synced_at": "2026-10-28T19:44:24.352021+00:00",
   "count": 55,
   "leads": [
     {
@@ -907,14 +907,14 @@
         {
           "date": "2026-04-29 08:30:22",
           "author": "Pick&Deal, gabriel@pickanddeal.fr",
-          "type": "comment",
-          "body": "<p>06 69 (32) (82) 55<span class=\"o-mail-Message-edited\"></span></p>"
+          "type": "tracking",
+          "body": "None<b>fanny.feinte@gmail.com</b><i>E-mail</i><br><br>"
         },
         {
           "date": "2026-04-29 08:30:22",
           "author": "Pick&Deal, gabriel@pickanddeal.fr",
-          "type": "tracking",
-          "body": "None<b>fanny.feinte@gmail.com</b><i>E-mail</i><br><br>"
+          "type": "comment",
+          "body": "<p>06 69 (32) (82) 55<span class=\"o-mail-Message-edited\"></span></p>"
         },
         {
           "date": "2026-04-29 08:33:55",
@@ -1585,7 +1585,7 @@
           "date": "2026-10-20 10:30:18",
           "author": "Pick&Deal, gabriel@pickanddeal.fr",
           "type": "comment",
-          "body": "<p>j'ai eu le rdv, mr rabot n'etait pas la mais je l'ai eu au tel il valide, j'ai dois donc envoyé par mail les identifiants acces du site au mail et je passe mardi prochain (27/10) dans l'aprem pour poster un premier panier ensemble</p>"
+          "body": "<p>j'ai eu le rdv, mr rabot n'etait pas la mais je l'ai eu au tel il valide, j'ai dois donc envoyé par mail les identifiants acces du site au mail et je passe jeudi prochain (29/10) à 11h pour poster un premier panier ensemble<span class=\"o-mail-Message-edited\" data-o-datetime=\"2026-10-28 14:33:14\"></span></p>"
         },
         {
           "date": "2026-10-20 10:30:49",
@@ -1604,15 +1604,27 @@
           "author": "Pick&Deal, gabriel@pickanddeal.fr",
           "type": "tracking",
           "body": "<div>RDV PLANIFIÉ → <b>A ONBOARDER</b> <i>(Étape)</i></div>"
+        },
+        {
+          "date": "2026-10-28 14:34:24",
+          "author": "Pick&Deal, gabriel@pickanddeal.fr",
+          "type": "comment",
+          "body": "<p>j'ai rdv avec demain à 11h</p>"
+        },
+        {
+          "date": "2026-10-28 14:34:34",
+          "author": "Pick&Deal, gabriel@pickanddeal.fr",
+          "type": "notification",
+          "body": "<div>\n    <p class=\"o_mail_activity_title\">\n        <span class=\"fa fa-envelope fa-fw\"></span><span>E-mail</span> terminée\n        <span>: </span><span>identifiants</span>\n    </p>\n</div>"
         }
       ],
       "activities": [
         {
-          "summary": "identifiants",
+          "summary": "rdv",
           "note": false,
-          "type": "Email",
-          "date_deadline": "2026-10-21",
-          "created": "2026-10-20 10:31:46",
+          "type": "To-Do",
+          "date_deadline": "2026-10-29",
+          "created": "2026-10-28 14:34:42",
           "assigned_to": "gabriel@pickanddeal.fr"
         }
       ]
@@ -2159,10 +2171,10 @@
       "email_from": "benebossuet@yahoo.fr",
       "phone": "+33 5 62 72 87 19",
       "stage_id": [
-        16,
-        "INTRIGUÉ"
+        10,
+        "A ONBOARDER"
       ],
-      "probability": 50.0,
+      "probability": 99.66,
       "expected_revenue": 0.0,
       "description": false,
       "tag_ids": [],
@@ -2171,7 +2183,7 @@
         "gabriel@pickanddeal.fr"
       ],
       "create_date": "2026-02-17 09:52:17",
-      "write_date": "2026-03-26 10:15:48",
+      "write_date": "2026-10-28 14:36:14",
       "chatter": [
         {
           "date": "2026-02-17 09:52:17",
@@ -2280,14 +2292,28 @@
           "author": "Pick&Deal, gabriel@pickanddeal.fr",
           "type": "comment",
           "body": "<p>noël 15€ et un autre noël 20€<br>arôme mikado  encens 20€<br><br>les 3 premiers panier à 10%<br>elle est pa la semaine pro donc je poste et lui tiens au courant</p>"
+        },
+        {
+          "date": "2026-10-28 14:36:14",
+          "author": "Pick&Deal, gabriel@pickanddeal.fr",
+          "type": "tracking",
+          "body": "<div>INTRIGUÉ → <b>A ONBOARDER</b> <i>(Étape)</i></div>"
         }
       ],
       "activities": [
         {
-          "summary": "To-Do",
+          "summary": "valid stripe",
           "note": false,
           "type": "To-Do",
-          "date_deadline": "2026-09-29",
+          "date_deadline": "2026-11-02",
+          "created": "2026-10-28 14:37:29",
+          "assigned_to": "gabriel@pickanddeal.fr"
+        },
+        {
+          "summary": "autre panier",
+          "note": false,
+          "type": "To-Do",
+          "date_deadline": "2026-11-04",
           "created": "2026-03-09 15:17:22",
           "assigned_to": "gabriel@pickanddeal.fr"
         }
