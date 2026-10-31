@@ -1,5 +1,5 @@
 {
-  "synced_at": "2026-10-31T09:54:14.921480+00:00",
+  "synced_at": "2026-10-31T13:31:46.463215+00:00",
   "count": 55,
   "leads": [
     {
@@ -48,7 +48,7 @@
           "summary": "(Semi) Première approche",
           "note": false,
           "type": "To-Do",
-          "date_deadline": "2026-10-13",
+          "date_deadline": "2026-11-03",
           "created": "2026-10-01 08:04:35",
           "assigned_to": "gabriel@pickanddeal.fr"
         }
@@ -107,14 +107,20 @@
           "author": "Pick&Deal, gabriel@pickanddeal.fr",
           "type": "tracking",
           "body": "<div>07443028 → <b>+33 7 62 44 30 28</b> <i>(Téléphone)</i></div>"
+        },
+        {
+          "date": "2026-10-31 10:40:49",
+          "author": "Pick&Deal, gabriel@pickanddeal.fr",
+          "type": "comment",
+          "body": "<p>j'ai appeler le michael (decisionnaire)<br><br>je dois le rappeler mardi dans la matinée</p>"
         }
       ],
       "activities": [
         {
-          "summary": "Appeler pour savoir retour du patron",
+          "summary": "Appeler matin michael",
           "note": false,
           "type": "Call",
-          "date_deadline": "2026-10-19",
+          "date_deadline": "2026-11-03",
           "created": "2026-10-01 07:52:39",
           "assigned_to": "gabriel@pickanddeal.fr"
         }
@@ -189,18 +195,33 @@
           "author": "Pick&Deal, gabriel@pickanddeal.fr",
           "type": "tracking",
           "body": "<div>PROSPECT IDENTIFIÉ → <b>PAS DÉCISIONNAIRE</b> <i>(Étape)</i></div>"
+        },
+        {
+          "date": "2026-10-31 10:59:56",
+          "author": "Pick&Deal, gabriel@pickanddeal.fr",
+          "type": "comment",
+          "body": "<p>Carolie fauchier m’a dit le 09/10 : Bonjour Gabriel, <br><br>Merci pour votre message. J'intègre Alice, la responsable en charge de ce sujet chez Avril. Nous n'avons pas de besoins pour le moment, elle vous contactera si cela évolue. <br><br>Belle journée !</p>"
+        },
+        {
+          "date": "2026-10-31 11:00:34",
+          "author": "Pick&Deal, gabriel@pickanddeal.fr",
+          "type": "comment",
+          "body": "<p>et j’ai donc le mail de alice la charge de responsable à ce sujet apparement : alice.couturier@avril-beaute.fr</p>"
+        },
+        {
+          "date": "2026-10-31 11:04:23",
+          "author": "Pick&Deal, gabriel@pickanddeal.fr",
+          "type": "comment",
+          "body": "<p>voir avec claude ce qu'il me conseil egalement</p>"
+        },
+        {
+          "date": "2026-10-31 11:04:26",
+          "author": "Pick&Deal, gabriel@pickanddeal.fr",
+          "type": "notification",
+          "body": "<div>\n    <p class=\"o_mail_activity_title\">\n        <span class=\"fa fa-envelope fa-fw\"></span><span>E-mail</span> terminée\n        <span>: </span><span>Relance - 9h à 11h</span>\n    </p>\n</div>"
         }
       ],
-      "activities": [
-        {
-          "summary": "Relance - 9h à 11h",
-          "note": false,
-          "type": "Email",
-          "date_deadline": "2026-09-30",
-          "created": "2026-09-20 15:18:31",
-          "assigned_to": "gabriel@pickanddeal.fr"
-        }
-      ]
+      "activities": []
     },
     {
       "id": 57,
@@ -248,7 +269,7 @@
           "summary": "Seconde approche",
           "note": false,
           "type": "To-Do",
-          "date_deadline": "2026-10-13",
+          "date_deadline": "2026-11-03",
           "created": "2026-09-18 09:42:36",
           "assigned_to": "gabriel@pickanddeal.fr"
         }
@@ -263,7 +284,7 @@
       "phone": false,
       "stage_id": [
         13,
-        "PAS INTÉRESSÉ"
+        "PAS DE BESOINS"
       ],
       "probability": 94.57,
       "expected_revenue": 0.0,
@@ -358,14 +379,14 @@
         {
           "date": "2026-09-18 09:05:32",
           "author": "Pick&Deal, gabriel@pickanddeal.fr",
-          "type": "tracking",
-          "body": "<div>None → <b>amine@oklashop.com</b> <i>(E-mail)</i></div>"
+          "type": "comment",
+          "body": "<p>amine@oklashop.com</p>"
         },
         {
           "date": "2026-09-18 09:05:32",
           "author": "Pick&Deal, gabriel@pickanddeal.fr",
-          "type": "comment",
-          "body": "<p>amine@oklashop.com</p>"
+          "type": "tracking",
+          "body": "<div>None → <b>amine@oklashop.com</b> <i>(E-mail)</i></div>"
         },
         {
           "date": "2026-09-18 09:06:03",
@@ -438,18 +459,21 @@
           "author": "Pick&Deal, gabriel@pickanddeal.fr",
           "type": "comment",
           "body": "<p>j'ai envoyé ses identifiants,<br>il faut prendre rdv pour r2</p>"
+        },
+        {
+          "date": "2026-10-31 10:56:11",
+          "author": "Pick&Deal, gabriel@pickanddeal.fr",
+          "type": "comment",
+          "body": "<p>mail reçu de amine le 21/10 <br><br>Hello Gab,  j’ai bien reçu ton message, j’en ai parlé a mon collègue qui valide cela et il ne souhaite malheureusement pas que l’on se concentre sur ca pour l’instant car il y a d’autres priorités urgentes comme les SAV, recrutement car on a un collaborateur qui quitte l’entreprise en fin d’année.<br><br>J’en suis dsl , on peut voir cela dès l’année prochaine voir ce qu’il en ai.<br><br> <br><br>Encore dsl Gabriel jespere que tu comprend<br><br>En te souhaitant une bonne journée.</p>"
+        },
+        {
+          "date": "2026-10-31 12:43:57",
+          "author": "Pick&Deal, gabriel@pickanddeal.fr",
+          "type": "notification",
+          "body": "<div>\n    <p class=\"o_mail_activity_title\">\n        <span class=\"fa fa-check fa-fw\"></span><span>To-Do</span> terminée\n        <span>: </span><span>caler r2</span>\n    </p>\n</div>"
         }
       ],
-      "activities": [
-        {
-          "summary": "caler r2",
-          "note": false,
-          "type": "To-Do",
-          "date_deadline": "2026-10-20",
-          "created": "2026-10-16 08:32:02",
-          "assigned_to": "gabriel@pickanddeal.fr"
-        }
-      ]
+      "activities": []
     },
     {
       "id": 54,
@@ -460,7 +484,7 @@
       "phone": false,
       "stage_id": [
         13,
-        "PAS INTÉRESSÉ"
+        "PAS DE BESOINS"
       ],
       "probability": 96.26,
       "expected_revenue": 0.0,
@@ -488,14 +512,14 @@
         {
           "date": "2026-05-11 11:03:15",
           "author": "OdooBot",
-          "type": "tracking",
-          "body": "None<b>France</b><i>Rue</i><br>None<b>Ecume Store</b><i>Nom de la société</i><br><br>"
+          "type": "notification",
+          "body": "<p>Piste enrichie à partir de l'adresse e-mail</p>\n        <div class=\"o_partner_autocomplete_enrich_info p-3 mt-3 mb-3 me-5\">\n            <div class=\"row p-0 m-0\">\n            <div class=\"col-sm-10 p-0\">\n                <h4>\n                    <span class=\"me-3 align-middle\">Ecume Store</span>\n                    <a class=\"ms-2\" target=\"_blank\" href=\"https://www.linkedin.com/company/ecume-store\">\n                        <img src=\"/mail/font_to_img/61580/rgb(0,119,181)/22\">\n                    </a>\n                </h4>\n                <p>Ecume Store is a mixed wardrobe in Toulouse that offers a selection of ready-to-wear brands and accessories for men and women. They provide a range of brands such as Minimum fashion, Saye Brand, Ucon Acrobatics, Matt &amp; Nat, Thinking Mu, Edmmond Studios...</p>\n            </div>\n            <div class=\"col-sm-2 p-0 text-center text-md-end order-first order-md-last\">\n                <img alt=\"\" style=\"max-width:80px\" src=\"https://logo.clearbit.com/ecumestore.fr\">\n            </div>\n            </div>\n            <hr>\n\n            <div class=\"col-sm-12 row m-0 p-0\">\n                <div class=\"d-flex my-1 p-0 col-sm-3\">\n                    <i class=\"fa fa-fw me-2 fa-calendar text-primary\"></i>\n                    <b>Founded</b>\n                </div>\n                <div class=\"my-1 col-sm-9\">2021</div>\n                <div class=\"d-flex my-1 p-0 col-sm-3\">\n                    <i class=\"fa fa-fw me-2 fa-industry text-primary\"></i>\n                    <b>Sectors</b>\n                </div>\n                <div class=\"my-1 col-sm-9\">\n                        <label class=\"o_tag o_tag_color_7\" style=\"font-weight:normal; padding:2px 10px; margin:1px 0px; border-radius:13px; display:inline-block\">Consumer Discretionary</label>\n                        <label class=\"o_tag o_tag_color_7\" style=\"font-weight:normal; padding:2px 10px; margin:1px 0px; border-radius:13px; display:inline-block\">Retailing</label>\n                        <label class=\"o_tag o_tag_color_7\" style=\"font-weight:normal; padding:2px 10px; margin:1px 0px; border-radius:13px; display:inline-block\">Retailing</label>\n                        <label class=\"o_tag o_tag_color_7\" style=\"font-weight:normal; padding:2px 10px; margin:1px 0px; border-radius:13px; display:inline-block\">Retailing</label>\n                </div>\n                <div class=\"d-flex my-1 p-0 col-sm-3\">\n                    <i class=\"fa fa-fw me-2 fa-users text-primary\"></i>\n                    <b>Employees</b>\n                </div>\n                <div class=\"my-1 col-sm-9\">5</div>\n                <div class=\"d-flex my-1 p-0 col-sm-3\">\n                    <i class=\"fa fa-fw me-2 fa-money text-primary\"></i>\n                    <b>Estimated revenue</b>\n                </div>\n                <div class=\"my-1 col-sm-9\">\n                    <span>$0-$1M</span><span> per year</span>\n                </div>\n                <div class=\"d-flex my-1 p-0 col-sm-3\">\n                    <i class=\"fa fa-fw me-2 fa-globe text-primary\"></i>\n                    <b>Timezone</b>\n                </div>\n                <div class=\"my-1 col-sm-9\">Europe/Paris</div>\n                <div class=\"d-flex my-1 p-0 col-sm-3\">\n                    <i class=\"fa fa-fw me-2 fa-cube text-primary\"></i>\n                    <b>Technologies Used</b>\n                </div>\n                <div class=\"my-1 col-sm-9\">\n                        <label class=\"o_tag o_tag_color_7\" style=\"font-weight:normal; padding:2px 10px; margin:1px 0px; border-radius:13px; display:inline-block\">Hotjar</label>\n                        <label class=\"o_tag o_tag_color_7\" style=\"font-weight:normal; padding:2px 10px; margin:1px 0px; border-radius:13px; display:inline-block\">Google Analytics</label>\n                        <label class=\"o_tag o_tag_color_7\" style=\"font-weight:normal; padding:2px 10px; margin:1px 0px; border-radius:13px; display:inline-block\">Cloud Flare</label>\n                        <label class=\"o_tag o_tag_color_7\" style=\"font-weight:normal; padding:2px 10px; margin:1px 0px; border-radius:13px; display:inline-block\">Facebook Advertiser</label>\n                        <label class=\"o_tag o_tag_color_7\" style=\"font-weight:normal; padding:2px 10px; margin:1px 0px; border-radius:13px; display:inline-block\">Shopify</label>\n                </div>\n            </div>\n            <div class=\"col-sm-12 row m-0 p-0\">\n                <div class=\"my-1 col-sm-9\">\n                    <div class=\"o_address_format\">\n                    </div>\n                </div>\n            </div>\n        </div>"
         },
         {
           "date": "2026-05-11 11:03:15",
           "author": "OdooBot",
-          "type": "notification",
-          "body": "<p>Piste enrichie à partir de l'adresse e-mail</p>\n        <div class=\"o_partner_autocomplete_enrich_info p-3 mt-3 mb-3 me-5\">\n            <div class=\"row p-0 m-0\">\n            <div class=\"col-sm-10 p-0\">\n                <h4>\n                    <span class=\"me-3 align-middle\">Ecume Store</span>\n                    <a class=\"ms-2\" target=\"_blank\" href=\"https://www.linkedin.com/company/ecume-store\">\n                        <img src=\"/mail/font_to_img/61580/rgb(0,119,181)/22\">\n                    </a>\n                </h4>\n                <p>Ecume Store is a mixed wardrobe in Toulouse that offers a selection of ready-to-wear brands and accessories for men and women. They provide a range of brands such as Minimum fashion, Saye Brand, Ucon Acrobatics, Matt &amp; Nat, Thinking Mu, Edmmond Studios...</p>\n            </div>\n            <div class=\"col-sm-2 p-0 text-center text-md-end order-first order-md-last\">\n                <img alt=\"\" style=\"max-width:80px\" src=\"https://logo.clearbit.com/ecumestore.fr\">\n            </div>\n            </div>\n            <hr>\n\n            <div class=\"col-sm-12 row m-0 p-0\">\n                <div class=\"d-flex my-1 p-0 col-sm-3\">\n                    <i class=\"fa fa-fw me-2 fa-calendar text-primary\"></i>\n                    <b>Founded</b>\n                </div>\n                <div class=\"my-1 col-sm-9\">2021</div>\n                <div class=\"d-flex my-1 p-0 col-sm-3\">\n                    <i class=\"fa fa-fw me-2 fa-industry text-primary\"></i>\n                    <b>Sectors</b>\n                </div>\n                <div class=\"my-1 col-sm-9\">\n                        <label class=\"o_tag o_tag_color_7\" style=\"font-weight:normal; padding:2px 10px; margin:1px 0px; border-radius:13px; display:inline-block\">Consumer Discretionary</label>\n                        <label class=\"o_tag o_tag_color_7\" style=\"font-weight:normal; padding:2px 10px; margin:1px 0px; border-radius:13px; display:inline-block\">Retailing</label>\n                        <label class=\"o_tag o_tag_color_7\" style=\"font-weight:normal; padding:2px 10px; margin:1px 0px; border-radius:13px; display:inline-block\">Retailing</label>\n                        <label class=\"o_tag o_tag_color_7\" style=\"font-weight:normal; padding:2px 10px; margin:1px 0px; border-radius:13px; display:inline-block\">Retailing</label>\n                </div>\n                <div class=\"d-flex my-1 p-0 col-sm-3\">\n                    <i class=\"fa fa-fw me-2 fa-users text-primary\"></i>\n                    <b>Employees</b>\n                </div>\n                <div class=\"my-1 col-sm-9\">5</div>\n                <div class=\"d-flex my-1 p-0 col-sm-3\">\n                    <i class=\"fa fa-fw me-2 fa-money text-primary\"></i>\n                    <b>Estimated revenue</b>\n                </div>\n                <div class=\"my-1 col-sm-9\">\n                    <span>$0-$1M</span><span> per year</span>\n                </div>\n                <div class=\"d-flex my-1 p-0 col-sm-3\">\n                    <i class=\"fa fa-fw me-2 fa-globe text-primary\"></i>\n                    <b>Timezone</b>\n                </div>\n                <div class=\"my-1 col-sm-9\">Europe/Paris</div>\n                <div class=\"d-flex my-1 p-0 col-sm-3\">\n                    <i class=\"fa fa-fw me-2 fa-cube text-primary\"></i>\n                    <b>Technologies Used</b>\n                </div>\n                <div class=\"my-1 col-sm-9\">\n                        <label class=\"o_tag o_tag_color_7\" style=\"font-weight:normal; padding:2px 10px; margin:1px 0px; border-radius:13px; display:inline-block\">Hotjar</label>\n                        <label class=\"o_tag o_tag_color_7\" style=\"font-weight:normal; padding:2px 10px; margin:1px 0px; border-radius:13px; display:inline-block\">Google Analytics</label>\n                        <label class=\"o_tag o_tag_color_7\" style=\"font-weight:normal; padding:2px 10px; margin:1px 0px; border-radius:13px; display:inline-block\">Cloud Flare</label>\n                        <label class=\"o_tag o_tag_color_7\" style=\"font-weight:normal; padding:2px 10px; margin:1px 0px; border-radius:13px; display:inline-block\">Facebook Advertiser</label>\n                        <label class=\"o_tag o_tag_color_7\" style=\"font-weight:normal; padding:2px 10px; margin:1px 0px; border-radius:13px; display:inline-block\">Shopify</label>\n                </div>\n            </div>\n            <div class=\"col-sm-12 row m-0 p-0\">\n                <div class=\"my-1 col-sm-9\">\n                    <div class=\"o_address_format\">\n                    </div>\n                </div>\n            </div>\n        </div>"
+          "type": "tracking",
+          "body": "None<b>France</b><i>Rue</i><br>None<b>Ecume Store</b><i>Nom de la société</i><br><br>"
         },
         {
           "date": "2026-05-11 11:06:35",
@@ -625,9 +649,24 @@
           "author": "Pick&Deal, gabriel@pickanddeal.fr",
           "type": "comment",
           "body": "<p>j'ai rdv dm avec lui (29/10) à 14h pour qu'on finaliser inscirption des compte smith lee et schottt et quon poste les paniers surprise</p>"
+        },
+        {
+          "date": "2026-10-31 12:51:53",
+          "author": "Pick&Deal, gabriel@pickanddeal.fr",
+          "type": "comment",
+          "body": "<p>j'ai eu rdv avec lui a son resto a l'annexe saint george , on a finaliser stripe sur son compte smith et il mansue schott et lee car il le fera ce wk<br>j'ai rdv avec lui ce mardi 03 novembre à 14h pour unboarder tous les paniers sur ses boutiques schott et lee</p>"
         }
       ],
-      "activities": []
+      "activities": [
+        {
+          "summary": "rdv 14h",
+          "note": false,
+          "type": "To-Do",
+          "date_deadline": "2026-11-03",
+          "created": "2026-10-31 12:52:14",
+          "assigned_to": "gabriel@pickanddeal.fr"
+        }
+      ]
     },
     {
       "id": 52,
@@ -637,10 +676,10 @@
       "email_from": "boutique@quartierlibrepapier.com",
       "phone": "+33 9 74 97 02 06",
       "stage_id": [
-        2,
-        "DÉMARCHÉ (A RELANCER)"
+        13,
+        "PAS DE BESOINS"
       ],
-      "probability": 95.45,
+      "probability": 99.66,
       "expected_revenue": 0.0,
       "description": false,
       "tag_ids": [],
@@ -649,7 +688,7 @@
         "gabriel@pickanddeal.fr"
       ],
       "create_date": "2026-04-29 08:49:40",
-      "write_date": "2026-04-29 08:50:24",
+      "write_date": "2026-10-31 10:36:49",
       "chatter": [
         {
           "date": "2026-04-29 08:49:40",
@@ -680,18 +719,27 @@
           "author": "OdooBot",
           "type": "tracking",
           "body": "None<b>Quartier Libre Papier</b><i>Nom de la société</i><br><br>"
+        },
+        {
+          "date": "2026-10-31 10:36:41",
+          "author": "Pick&Deal, gabriel@pickanddeal.fr",
+          "type": "notification",
+          "body": "<div>\n    <p class=\"o_mail_activity_title\">\n        <span class=\"fa fa-check fa-fw\"></span><span>To-Do</span> terminée\n        <span>: </span><span>To-Do</span>\n    </p>\n</div>"
+        },
+        {
+          "date": "2026-10-31 10:36:45",
+          "author": "Pick&Deal, gabriel@pickanddeal.fr",
+          "type": "comment",
+          "body": "<p>pas d'invendu</p>"
+        },
+        {
+          "date": "2026-10-31 10:36:49",
+          "author": "Pick&Deal, gabriel@pickanddeal.fr",
+          "type": "tracking",
+          "body": "<div>DÉMARCHÉ (A RELANCER) → <b>PAS DE BESOINS</b> <i>(Étape)</i></div>"
         }
       ],
-      "activities": [
-        {
-          "summary": "To-Do",
-          "note": false,
-          "type": "To-Do",
-          "date_deadline": "2026-09-29",
-          "created": "2026-04-29 08:50:13",
-          "assigned_to": "gabriel@pickanddeal.fr"
-        }
-      ]
+      "activities": []
     },
     {
       "id": 51,
@@ -744,14 +792,20 @@
           "author": "Pick&Deal, gabriel@pickanddeal.fr",
           "type": "comment",
           "body": "<span class=\"o-mail-Message-edited\" data-o-datetime=\"2026-09-18 09:49:15\"></span>"
+        },
+        {
+          "date": "2026-10-31 10:37:32",
+          "author": "Pick&Deal, gabriel@pickanddeal.fr",
+          "type": "comment",
+          "body": "<p>la patronne m'a montré sur son site la rubrique reduction ou elle me dit de contocter des panier avec et de lui montrer</p>"
         }
       ],
       "activities": [
         {
-          "summary": "To-Do",
+          "summary": "Contocter panier",
           "note": false,
           "type": "To-Do",
-          "date_deadline": "2026-09-29",
+          "date_deadline": "2026-10-31",
           "created": "2026-04-29 08:46:17",
           "assigned_to": "gabriel@pickanddeal.fr"
         }
@@ -766,7 +820,7 @@
       "phone": "+33 5 62 19 02 36",
       "stage_id": [
         13,
-        "PAS INTÉRESSÉ"
+        "PAS DE BESOINS"
       ],
       "probability": 95.45,
       "expected_revenue": 0.0,
@@ -863,18 +917,21 @@
           "author": "Pick&Deal, gabriel@pickanddeal.fr",
           "type": "tracking",
           "body": "PROSPECT IDENTIFIÉ<b>DÉMARCHÉ (A RELANCER)</b><i>Étape</i><br><br>"
+        },
+        {
+          "date": "2026-10-31 10:38:36",
+          "author": "Pick&Deal, gabriel@pickanddeal.fr",
+          "type": "notification",
+          "body": "<div>\n    <p class=\"o_mail_activity_title\">\n        <span class=\"fa fa-check fa-fw\"></span><span>To-Do</span> terminée\n        <span>: </span><span>To-Do</span>\n    </p>\n</div>"
+        },
+        {
+          "date": "2026-10-31 10:38:51",
+          "author": "Pick&Deal, gabriel@pickanddeal.fr",
+          "type": "comment",
+          "body": "<p>il faut que j'y aille un mercredi car la responsable y est le mercredi</p>"
         }
       ],
-      "activities": [
-        {
-          "summary": "To-Do",
-          "note": false,
-          "type": "To-Do",
-          "date_deadline": "2026-09-29",
-          "created": "2026-04-29 08:38:13",
-          "assigned_to": "gabriel@pickanddeal.fr"
-        }
-      ]
+      "activities": []
     },
     {
       "id": 48,
@@ -885,7 +942,7 @@
       "phone": "+33 6 88 76 75 67",
       "stage_id": [
         13,
-        "PAS INTÉRESSÉ"
+        "PAS DE BESOINS"
       ],
       "probability": 98.97,
       "expected_revenue": 0.0,
@@ -907,14 +964,14 @@
         {
           "date": "2026-04-29 08:30:22",
           "author": "Pick&Deal, gabriel@pickanddeal.fr",
-          "type": "tracking",
-          "body": "None<b>fanny.feinte@gmail.com</b><i>E-mail</i><br><br>"
+          "type": "comment",
+          "body": "<p>06 69 (32) (82) 55<span class=\"o-mail-Message-edited\"></span></p>"
         },
         {
           "date": "2026-04-29 08:30:22",
           "author": "Pick&Deal, gabriel@pickanddeal.fr",
-          "type": "comment",
-          "body": "<p>06 69 (32) (82) 55<span class=\"o-mail-Message-edited\"></span></p>"
+          "type": "tracking",
+          "body": "None<b>fanny.feinte@gmail.com</b><i>E-mail</i><br><br>"
         },
         {
           "date": "2026-04-29 08:33:55",
@@ -975,18 +1032,15 @@
           "author": "Pick&Deal, gabriel@pickanddeal.fr",
           "type": "tracking",
           "body": "<div>INTÉRESSÉ → <b>PAS INTÉRESSÉ</b> <i>(Étape)</i></div>"
+        },
+        {
+          "date": "2026-10-31 13:31:01",
+          "author": "Pick&Deal, gabriel@pickanddeal.fr",
+          "type": "notification",
+          "body": "<div>\n    <p class=\"o_mail_activity_title\">\n        <span class=\"fa fa-check fa-fw\"></span><span>To-Do</span> terminée\n        <span>: </span><span>To-Do</span>\n    </p>\n</div>"
         }
       ],
-      "activities": [
-        {
-          "summary": "To-Do",
-          "note": false,
-          "type": "To-Do",
-          "date_deadline": "2026-09-30",
-          "created": "2026-09-18 13:38:02",
-          "assigned_to": "gabriel@pickanddeal.fr"
-        }
-      ]
+      "activities": []
     },
     {
       "id": 47,
@@ -1047,6 +1101,12 @@
           "author": "Pick&Deal, gabriel@pickanddeal.fr",
           "type": "tracking",
           "body": "<div>En attente → <b>Gagné</b> <i>(Gagnée/Perdue)</i><br>A ONBOARDER → <b>ACTIF</b> <i>(Étape)</i></div>"
+        },
+        {
+          "date": "2026-10-31 13:29:29",
+          "author": "Pick&Deal, gabriel@pickanddeal.fr",
+          "type": "comment",
+          "body": "<p>je l'ai appele hier sans succes pour reprendre contact er reposrer</p>"
         }
       ],
       "activities": [
@@ -1054,7 +1114,7 @@
           "summary": "Appeler",
           "note": false,
           "type": "Call",
-          "date_deadline": "2026-09-23",
+          "date_deadline": "2026-11-04",
           "created": "2026-09-16 16:13:30",
           "assigned_to": "gabriel@pickanddeal.fr"
         }
@@ -1069,7 +1129,7 @@
       "phone": "+33 6 13 87 65 52",
       "stage_id": [
         13,
-        "PAS INTÉRESSÉ"
+        "PAS DE BESOINS"
       ],
       "probability": 99.68,
       "expected_revenue": 0.0,
@@ -1190,7 +1250,7 @@
       "phone": "+33 5 61 23 61 02",
       "stage_id": [
         13,
-        "PAS INTÉRESSÉ"
+        "PAS DE BESOINS"
       ],
       "probability": 95.45,
       "expected_revenue": 0.0,
@@ -1244,7 +1304,7 @@
       "phone": "+33 5 61 14 15 01",
       "stage_id": [
         13,
-        "PAS INTÉRESSÉ"
+        "PAS DE BESOINS"
       ],
       "probability": 98.48,
       "expected_revenue": 0.0,
@@ -1298,7 +1358,7 @@
       "phone": "+33 9 52 60 37 12",
       "stage_id": [
         13,
-        "PAS INTÉRESSÉ"
+        "PAS DE BESOINS"
       ],
       "probability": 98.48,
       "expected_revenue": 0.0,
@@ -1349,7 +1409,7 @@
       "phone": "+33 5 32 53 91 99",
       "stage_id": [
         13,
-        "PAS INTÉRESSÉ"
+        "PAS DE BESOINS"
       ],
       "probability": 95.45,
       "expected_revenue": 0.0,
@@ -1391,8 +1451,8 @@
       "email_from": false,
       "phone": "+33 5 62 26 72 98",
       "stage_id": [
-        1,
-        "PROSPECT IDENTIFIÉ"
+        13,
+        "PAS DE BESOINS"
       ],
       "probability": 0.0,
       "expected_revenue": 0.0,
@@ -1405,7 +1465,7 @@
         "gabriel@pickanddeal.fr"
       ],
       "create_date": "2026-04-04 17:46:03",
-      "write_date": "2026-04-04 17:46:31",
+      "write_date": "2026-10-31 10:15:46",
       "chatter": [
         {
           "date": "2026-04-04 17:46:03",
@@ -1418,18 +1478,27 @@
           "author": "Pick&Deal, gabriel@pickanddeal.fr",
           "type": "comment",
           "body": "<p>jamais passé je vais approcher ce jeudi</p>"
+        },
+        {
+          "date": "2026-10-31 10:15:34",
+          "author": "Pick&Deal, gabriel@pickanddeal.fr",
+          "type": "comment",
+          "body": "<p>ils n'ont pas d'invendu</p>"
+        },
+        {
+          "date": "2026-10-31 10:15:38",
+          "author": "Pick&Deal, gabriel@pickanddeal.fr",
+          "type": "notification",
+          "body": "<div>\n    <p class=\"o_mail_activity_title\">\n        <span class=\"fa fa-check fa-fw\"></span><span>To-Do</span> terminée\n        <span>: </span><span>Première approche</span>\n    </p>\n</div>"
+        },
+        {
+          "date": "2026-10-31 10:15:46",
+          "author": "Pick&Deal, gabriel@pickanddeal.fr",
+          "type": "tracking",
+          "body": "<div>PROSPECT IDENTIFIÉ → <b>PAS INTÉRESSÉ</b> <i>(Étape)</i></div>"
         }
       ],
-      "activities": [
-        {
-          "summary": "Première approche",
-          "note": false,
-          "type": "To-Do",
-          "date_deadline": "2026-10-15",
-          "created": "2026-04-04 17:46:37",
-          "assigned_to": "gabriel@pickanddeal.fr"
-        }
-      ]
+      "activities": []
     },
     {
       "id": 39,
@@ -1439,10 +1508,10 @@
       "email_from": false,
       "phone": "+33 6 35 92 95 78",
       "stage_id": [
-        1,
-        "PROSPECT IDENTIFIÉ"
+        13,
+        "PAS DE BESOINS"
       ],
-      "probability": 77.07,
+      "probability": 90.41,
       "expected_revenue": 0.0,
       "description": false,
       "tag_ids": [
@@ -1453,7 +1522,7 @@
         "gabriel@pickanddeal.fr"
       ],
       "create_date": "2026-04-04 17:44:54",
-      "write_date": "2026-04-04 17:44:54",
+      "write_date": "2026-10-31 10:16:21",
       "chatter": [
         {
           "date": "2026-04-04 17:44:54",
@@ -1466,18 +1535,27 @@
           "author": "Pick&Deal, gabriel@pickanddeal.fr",
           "type": "comment",
           "body": "<p>jamais approché, je vais y aller ce jeudi</p>"
+        },
+        {
+          "date": "2026-10-31 10:16:15",
+          "author": "Pick&Deal, gabriel@pickanddeal.fr",
+          "type": "comment",
+          "body": "<p>PAS D INVENDU</p>"
+        },
+        {
+          "date": "2026-10-31 10:16:18",
+          "author": "Pick&Deal, gabriel@pickanddeal.fr",
+          "type": "notification",
+          "body": "<div>\n    <p class=\"o_mail_activity_title\">\n        <span class=\"fa fa-check fa-fw\"></span><span>To-Do</span> terminée\n        <span>: </span><span>Première approche</span>\n    </p>\n</div>"
+        },
+        {
+          "date": "2026-10-31 10:16:21",
+          "author": "Pick&Deal, gabriel@pickanddeal.fr",
+          "type": "tracking",
+          "body": "<div>PROSPECT IDENTIFIÉ → <b>PAS DE BESOINS</b> <i>(Étape)</i></div>"
         }
       ],
-      "activities": [
-        {
-          "summary": "Première approche",
-          "note": false,
-          "type": "To-Do",
-          "date_deadline": "2026-10-15",
-          "created": "2026-04-04 17:45:00",
-          "assigned_to": "gabriel@pickanddeal.fr"
-        }
-      ]
+      "activities": []
     },
     {
       "id": 38,
@@ -1616,14 +1694,26 @@
           "author": "Pick&Deal, gabriel@pickanddeal.fr",
           "type": "notification",
           "body": "<div>\n    <p class=\"o_mail_activity_title\">\n        <span class=\"fa fa-envelope fa-fw\"></span><span>E-mail</span> terminée\n        <span>: </span><span>identifiants</span>\n    </p>\n</div>"
+        },
+        {
+          "date": "2026-10-31 13:24:49",
+          "author": "Pick&Deal, gabriel@pickanddeal.fr",
+          "type": "comment",
+          "body": "<p>j'ai eu rdv avec eux,<br>on a cree le compte et fini stripe et j'attend le retour du contenant des paniers ens stock<br>elle devait le faire soit hier soit avant hier<br>et depuis j'ai vu que y'acait une incoherence sur le stripe de mg design ca marche tjr pas car askip le nom au siren est tjr pasl e bon faudrait qu'on re regarde mais le probleme est que pour me connecter à son stripe ils envoi un sms sur le portable de carl rabot</p>"
+        },
+        {
+          "date": "2026-10-31 13:25:13",
+          "author": "Pick&Deal, gabriel@pickanddeal.fr",
+          "type": "comment",
+          "body": "<p>j'attend son retour sur les produits a poster <br>et le validation stripe</p>"
         }
       ],
       "activities": [
         {
-          "summary": "rdv",
+          "summary": "Appeler",
           "note": false,
-          "type": "To-Do",
-          "date_deadline": "2026-10-29",
+          "type": "Call",
+          "date_deadline": "2026-11-02",
           "created": "2026-10-28 14:34:42",
           "assigned_to": "gabriel@pickanddeal.fr"
         }
@@ -1664,14 +1754,20 @@
           "author": "Pick&Deal, gabriel@pickanddeal.fr",
           "type": "comment",
           "body": "<p>jamais approché, je vais y passer ce jeudi</p>"
+        },
+        {
+          "date": "2026-10-31 10:23:39",
+          "author": "Pick&Deal, gabriel@pickanddeal.fr",
+          "type": "comment",
+          "body": "<p>ils ont des invendus mais pas enormement non plus<br><br>la patronne est femme dune 50 - 60 aine d'annee pas trop convaincu de l'idee du coté \"surprise\"<br><br>elle reflechi<br><br>je repasserais d'un moment pour reprendre noiuvelle</p>"
         }
       ],
       "activities": [
         {
-          "summary": "Première approche",
+          "summary": "passé la voir",
           "note": false,
           "type": "To-Do",
-          "date_deadline": "2026-10-15",
+          "date_deadline": "2026-11-10",
           "created": "2026-04-04 17:40:16",
           "assigned_to": "gabriel@pickanddeal.fr"
         }
@@ -1686,7 +1782,7 @@
       "phone": "+33 5 61 53 12 54",
       "stage_id": [
         13,
-        "PAS INTÉRESSÉ"
+        "PAS DE BESOINS"
       ],
       "probability": 0.0,
       "expected_revenue": 0.0,
@@ -1776,7 +1872,7 @@
       "phone": "+33 7 69 25 86 47",
       "stage_id": [
         13,
-        "PAS INTÉRESSÉ"
+        "PAS DE BESOINS"
       ],
       "probability": 0.0,
       "expected_revenue": 0.0,
@@ -1960,7 +2056,7 @@
           "summary": "To-Do",
           "note": false,
           "type": "To-Do",
-          "date_deadline": "2026-09-29",
+          "date_deadline": "2026-11-03",
           "created": "2026-04-29 13:44:06",
           "assigned_to": "gabriel@pickanddeal.fr"
         }
@@ -2412,18 +2508,33 @@
           "author": "Pick&Deal, gabriel@pickanddeal.fr",
           "type": "tracking",
           "body": "PROSPECT IDENTIFIÉ<b>INTRIGUÉ</b><i>Étape</i><br><br>"
+        },
+        {
+          "date": "2026-10-31 10:42:58",
+          "author": "Pick&Deal, gabriel@pickanddeal.fr",
+          "type": "comment",
+          "body": "<p>mail reçu de sa part : Bonjour😊<br>Nous revenons vers vous concernant votre passage en boutique prévue jeudi. Après en avoir discuté nous préférons finalement ne pas donner suite pour le moment, même si nous trouvons votre proposition très intéressante.<br>Nous n'hésiterons pas à revenir vers vous si une opportunité de collaboration se présente à l'avenir.<br><br>Bonne journée <br>L’équipe MY HOME MY DEAR</p>"
+        },
+        {
+          "date": "2026-10-31 10:49:39",
+          "author": "Pick&Deal, gabriel@pickanddeal.fr",
+          "type": "comment",
+          "body": "<p>j'ai recu son mail le mardi 27/10<br><br>jsp trop quand ni quoi repondre ? <br>à voir avec claude</p>"
+        },
+        {
+          "date": "2026-10-31 10:49:43",
+          "author": "Pick&Deal, gabriel@pickanddeal.fr",
+          "type": "comment",
+          "body": "<span class=\"o-mail-Message-edited\" data-o-datetime=\"2026-10-31 10:49:47\"></span>"
+        },
+        {
+          "date": "2026-10-31 13:31:09",
+          "author": "Pick&Deal, gabriel@pickanddeal.fr",
+          "type": "notification",
+          "body": "<div>\n    <p class=\"o_mail_activity_title\">\n        <span class=\"fa fa-check fa-fw\"></span><span>To-Do</span> terminée\n        <span>: </span><span>To-Do</span>\n    </p>\n</div>"
         }
       ],
-      "activities": [
-        {
-          "summary": "To-Do",
-          "note": false,
-          "type": "To-Do",
-          "date_deadline": "2026-09-29",
-          "created": "2026-03-17 15:27:38",
-          "assigned_to": "gabriel@pickanddeal.fr"
-        }
-      ]
+      "activities": []
     },
     {
       "id": 27,
@@ -2522,7 +2633,7 @@
       "phone": false,
       "stage_id": [
         13,
-        "PAS INTÉRESSÉ"
+        "PAS DE BESOINS"
       ],
       "probability": 96.26,
       "expected_revenue": 0.0,
@@ -2625,7 +2736,7 @@
       "phone": "+33 5 34 30 73 89",
       "stage_id": [
         13,
-        "PAS INTÉRESSÉ"
+        "PAS DE BESOINS"
       ],
       "probability": 50.0,
       "expected_revenue": 0.0,
@@ -2878,14 +2989,20 @@
           "author": "Pick&Deal, gabriel@pickanddeal.fr",
           "type": "tracking",
           "body": "<div>En attente → <b>Gagné</b> <i>(Gagnée/Perdue)</i><br>A ONBOARDER → <b>ACTIF</b> <i>(Étape)</i></div>"
+        },
+        {
+          "date": "2026-10-31 13:30:02",
+          "author": "Pick&Deal, gabriel@pickanddeal.fr",
+          "type": "comment",
+          "body": "<p>reprendre contact</p>"
         }
       ],
       "activities": [
         {
-          "summary": "Appeler",
+          "summary": "To-Do",
           "note": false,
-          "type": "Call",
-          "date_deadline": "2026-09-22",
+          "type": "To-Do",
+          "date_deadline": "2026-11-03",
           "created": "2026-05-04 14:45:07",
           "assigned_to": "gabriel@pickanddeal.fr"
         }
@@ -2979,7 +3096,7 @@
           "summary": "Appeler",
           "note": false,
           "type": "Call",
-          "date_deadline": "2026-09-29",
+          "date_deadline": "2026-11-05",
           "created": "2026-04-08 14:18:13",
           "assigned_to": "gabriel@pickanddeal.fr"
         }
@@ -2993,10 +3110,10 @@
       "email_from": false,
       "phone": "+33 6 09 82 37 26",
       "stage_id": [
-        17,
-        "Monsieur Oui"
+        14,
+        "A REVOIR PLUS TARD"
       ],
-      "probability": 93.34,
+      "probability": 90.41,
       "expected_revenue": 0.0,
       "description": false,
       "tag_ids": [],
@@ -3005,7 +3122,7 @@
         "gabriel@pickanddeal.fr"
       ],
       "create_date": "2026-02-17 09:25:49",
-      "write_date": "2026-09-18 09:35:42",
+      "write_date": "2026-10-31 12:46:06",
       "chatter": [
         {
           "date": "2026-02-17 09:25:49",
@@ -3072,18 +3189,39 @@
           "author": "Pick&Deal, gabriel@pickanddeal.fr",
           "type": "tracking",
           "body": "<div>INTRIGUÉ → <b>Monsieur Oui</b> <i>(Étape)</i></div>"
+        },
+        {
+          "date": "2026-10-31 12:45:43",
+          "author": "Pick&Deal, gabriel@pickanddeal.fr",
+          "type": "comment",
+          "body": "<p>monsieur oui <br>insuportable</p>"
+        },
+        {
+          "date": "2026-10-31 12:45:46",
+          "author": "Pick&Deal, gabriel@pickanddeal.fr",
+          "type": "notification",
+          "body": "<div>\n    <p class=\"o_mail_activity_title\">\n        <span class=\"fa fa-check fa-fw\"></span><span>To-Do</span> terminée\n        <span>: </span><span>To-Do</span>\n    </p>\n</div>"
+        },
+        {
+          "date": "2026-10-31 12:45:52",
+          "author": "Pick&Deal, gabriel@pickanddeal.fr",
+          "type": "tracking",
+          "body": "<div>Monsieur Oui → <b>A REVOIR PLUS TARD</b> <i>(Étape)</i></div>"
+        },
+        {
+          "date": "2026-10-31 12:45:53",
+          "author": "Pick&Deal, gabriel@pickanddeal.fr",
+          "type": "tracking",
+          "body": "<div>A REVOIR PLUS TARD → <b>Monsieur Oui</b> <i>(Étape)</i></div>"
+        },
+        {
+          "date": "2026-10-31 12:46:06",
+          "author": "Pick&Deal, gabriel@pickanddeal.fr",
+          "type": "tracking",
+          "body": "<div>Monsieur Oui → <b>A REVOIR PLUS TARD</b> <i>(Étape)</i></div>"
         }
       ],
-      "activities": [
-        {
-          "summary": "To-Do",
-          "note": false,
-          "type": "To-Do",
-          "date_deadline": "2026-10-01",
-          "created": "2026-04-08 20:27:29",
-          "assigned_to": "gabriel@pickanddeal.fr"
-        }
-      ]
+      "activities": []
     },
     {
       "id": 21,
@@ -3094,7 +3232,7 @@
       "phone": false,
       "stage_id": [
         13,
-        "PAS INTÉRESSÉ"
+        "PAS DE BESOINS"
       ],
       "probability": 95.45,
       "expected_revenue": 0.0,
@@ -3337,10 +3475,10 @@
       ],
       "activities": [
         {
-          "summary": "Appeler",
+          "summary": "passer voir",
           "note": false,
-          "type": "Call",
-          "date_deadline": "2026-09-22",
+          "type": "To-Do",
+          "date_deadline": "2026-11-05",
           "created": "2026-05-04 14:31:18",
           "assigned_to": "gabriel@pickanddeal.fr"
         }
@@ -3355,7 +3493,7 @@
       "phone": "+33 5 31 22 27 23",
       "stage_id": [
         13,
-        "PAS INTÉRESSÉ"
+        "PAS DE BESOINS"
       ],
       "probability": 95.45,
       "expected_revenue": 0.0,
@@ -3597,7 +3735,7 @@
           "summary": false,
           "note": false,
           "type": "To-Do",
-          "date_deadline": "2026-09-29",
+          "date_deadline": "2026-11-03",
           "created": "2026-04-09 06:01:12",
           "assigned_to": "gabriel@pickanddeal.fr"
         }
@@ -3611,10 +3749,10 @@
       "email_from": false,
       "phone": "+33 6 66 29 02 98",
       "stage_id": [
-        6,
-        "INTÉRESSÉ"
+        14,
+        "A REVOIR PLUS TARD"
       ],
-      "probability": 77.07,
+      "probability": 90.41,
       "expected_revenue": 0.0,
       "description": false,
       "tag_ids": [],
@@ -3623,7 +3761,7 @@
         "gabriel@pickanddeal.fr"
       ],
       "create_date": "2026-02-17 08:57:07",
-      "write_date": "2026-04-09 06:01:44",
+      "write_date": "2026-10-31 11:07:46",
       "chatter": [
         {
           "date": "2026-02-17 08:57:07",
@@ -3732,6 +3870,12 @@
           "author": "Pick&Deal, gabriel@pickanddeal.fr",
           "type": "comment",
           "body": "<p>Je suis alle et ct une employé, repasser jeudi matin pour que audrey soit la</p>"
+        },
+        {
+          "date": "2026-10-31 11:07:46",
+          "author": "Pick&Deal, gabriel@pickanddeal.fr",
+          "type": "tracking",
+          "body": "<div>INTÉRESSÉ → <b>A REVOIR PLUS TARD</b> <i>(Étape)</i></div>"
         }
       ],
       "activities": [
@@ -3739,7 +3883,7 @@
           "summary": "voir pour solde",
           "note": false,
           "type": "To-Do",
-          "date_deadline": "2026-10-01",
+          "date_deadline": "2027-01-05",
           "created": "2026-04-07 13:59:29",
           "assigned_to": "gabriel@pickanddeal.fr"
         }
@@ -3892,18 +4036,21 @@
           "author": "Pick&Deal, gabriel@pickanddeal.fr",
           "type": "tracking",
           "body": "<div>Gagné → <b>En attente</b> <i>(Gagnée/Perdue)</i><br>ACTIF → <b>Monsieur Oui</b> <i>(Étape)</i></div>"
+        },
+        {
+          "date": "2026-10-31 12:48:40",
+          "author": "Pick&Deal, gabriel@pickanddeal.fr",
+          "type": "comment",
+          "body": "<p>jsp quoi faire avec lui c un endormi du cerveau, une tete à claque de monsieur oui</p>"
+        },
+        {
+          "date": "2026-10-31 12:48:43",
+          "author": "Pick&Deal, gabriel@pickanddeal.fr",
+          "type": "notification",
+          "body": "<div>\n    <p class=\"o_mail_activity_title\">\n        <span class=\"fa fa-check fa-fw\"></span><span>To-Do</span> terminée\n        <span>: </span><span>To-Do</span>\n    </p>\n</div>"
         }
       ],
-      "activities": [
-        {
-          "summary": "To-Do",
-          "note": false,
-          "type": "To-Do",
-          "date_deadline": "2026-10-08",
-          "created": "2026-04-07 15:35:21",
-          "assigned_to": "gabriel@pickanddeal.fr"
-        }
-      ]
+      "activities": []
     },
     {
       "id": 14,
@@ -3914,7 +4061,7 @@
       "phone": "+33 5 61 47 63 92",
       "stage_id": [
         13,
-        "PAS INTÉRESSÉ"
+        "PAS DE BESOINS"
       ],
       "probability": 95.45,
       "expected_revenue": 0.0,
@@ -4120,7 +4267,7 @@
           "summary": "Appeler",
           "note": false,
           "type": "Call",
-          "date_deadline": "2026-09-29",
+          "date_deadline": "2026-11-11",
           "created": "2026-04-09 05:57:00",
           "assigned_to": "gabriel@pickanddeal.fr"
         }
@@ -4243,6 +4390,12 @@
           "author": "Pick&Deal, gabriel@pickanddeal.fr",
           "type": "comment",
           "body": "<p>je vais supprimer tous ces paniers actuels vont remettre de nouveau. Je lui ai déjà expliqué le le côté est aussi bien ciblé l’idée des demi paniers surprise.</p>"
+        },
+        {
+          "date": "2026-10-31 13:26:54",
+          "author": "Pick&Deal, gabriel@pickanddeal.fr",
+          "type": "comment",
+          "body": "<p>elle v areposter les panier m'a telle dit</p>"
         }
       ],
       "activities": [
@@ -4250,7 +4403,7 @@
           "summary": "relance pour panier",
           "note": false,
           "type": "To-Do",
-          "date_deadline": "2026-10-26",
+          "date_deadline": "2026-11-05",
           "created": "2026-09-16 16:13:15",
           "assigned_to": "gabriel@pickanddeal.fr"
         }
@@ -4403,18 +4556,27 @@
           "author": "Pick&Deal, gabriel@pickanddeal.fr",
           "type": "tracking",
           "body": "<div>RDV PLANIFIÉ → <b>INTÉRESSÉ</b> <i>(Étape)</i></div>"
+        },
+        {
+          "date": "2026-10-31 11:09:45",
+          "author": "Pick&Deal, gabriel@pickanddeal.fr",
+          "type": "comment",
+          "body": "<p>j'y suis passé, elle m'ont dit que l'idee serait tjr cool, quelle avait commencé trier par \"papa\" \"maman\" etc et souhaite que je repasse pour qu'on en reparle le temps qu'elle tri le stock</p>"
+        },
+        {
+          "date": "2026-10-31 11:10:12",
+          "author": "Pick&Deal, gabriel@pickanddeal.fr",
+          "type": "comment",
+          "body": "<p>ten penses quoi claude , je repasse quand ?</p>"
+        },
+        {
+          "date": "2026-10-31 11:10:15",
+          "author": "Pick&Deal, gabriel@pickanddeal.fr",
+          "type": "notification",
+          "body": "<div>\n    <p class=\"o_mail_activity_title\">\n        <span class=\"fa fa-check fa-fw\"></span><span>To-Do</span> terminée\n        <span>: </span><span>To-Do</span>\n    </p>\n</div>"
         }
       ],
-      "activities": [
-        {
-          "summary": "To-Do",
-          "note": false,
-          "type": "To-Do",
-          "date_deadline": "2026-09-29",
-          "created": "2026-04-29 13:37:08",
-          "assigned_to": "gabriel@pickanddeal.fr"
-        }
-      ]
+      "activities": []
     },
     {
       "id": 9,
@@ -4424,10 +4586,10 @@
       "email_from": false,
       "phone": "+33 9 51 09 78 59",
       "stage_id": [
-        5,
-        "CONTACT RÉCUPÉRÉ"
+        14,
+        "A REVOIR PLUS TARD"
       ],
-      "probability": 91.67,
+      "probability": 90.41,
       "expected_revenue": 0.0,
       "description": "<div data-oe-version=\"2.0\" data-last-history-steps=\",4120997588347066,2537079103155758,4424277302503118,975325762370908,1908523580740359,499824188438684,3587998558001097,4203824946923366,2727213537992812,3274258490442447,1316531115376100,1730882155346519,1198151881349852,612920954466159,2174206994975871,3620211062513736,4265536367659244,43935968107147,585207511545883,1789378516067125,321643217453788,955287879445752,1467210924833556,3456113759774363,2504227577747130,905966261656982,386682044359762,2500633282909053,2599166508429714,2304112705400174,2159281626505832,1526508361343651,2865138203453494,2781025251907465,1104702767534298\">Vetement second main croix rouge</div>",
       "tag_ids": [],
@@ -4436,7 +4598,7 @@
         "gabriel@pickanddeal.fr"
       ],
       "create_date": "2026-02-16 16:28:47",
-      "write_date": "2026-03-19 21:39:41",
+      "write_date": "2026-10-31 11:07:28",
       "chatter": [
         {
           "date": "2026-02-16 16:28:47",
@@ -4521,18 +4683,21 @@
           "author": "Pick&Deal, gabriel@pickanddeal.fr",
           "type": "notification",
           "body": "<div>\n    <p class=\"o_mail_activity_title\">\n        <span class=\"fa fa-phone fa-fw\"></span><span>Appeler</span> terminée\n        <span>: </span><span>Appeler</span>\n    </p>\n</div>"
+        },
+        {
+          "date": "2026-10-31 11:07:26",
+          "author": "Pick&Deal, gabriel@pickanddeal.fr",
+          "type": "notification",
+          "body": "<div>\n    <p class=\"o_mail_activity_title\">\n        <span class=\"fa fa-check fa-fw\"></span><span>To-Do</span> terminée\n        <span>: </span><span>To-Do</span>\n    </p>\n</div>"
+        },
+        {
+          "date": "2026-10-31 11:07:28",
+          "author": "Pick&Deal, gabriel@pickanddeal.fr",
+          "type": "tracking",
+          "body": "<div>CONTACT RÉCUPÉRÉ → <b>A REVOIR PLUS TARD</b> <i>(Étape)</i></div>"
         }
       ],
-      "activities": [
-        {
-          "summary": "To-Do",
-          "note": false,
-          "type": "To-Do",
-          "date_deadline": "2026-09-29",
-          "created": "2026-09-24 09:51:09",
-          "assigned_to": "gabriel@pickanddeal.fr"
-        }
-      ]
+      "activities": []
     },
     {
       "id": 8,
@@ -4681,6 +4846,18 @@
           "author": "Pick&Deal, gabriel@pickanddeal.fr",
           "type": "tracking",
           "body": "<div>En attente → <b>Gagné</b> <i>(Gagnée/Perdue)</i><br>A ONBOARDER → <b>ACTIF</b> <i>(Étape)</i></div>"
+        },
+        {
+          "date": "2026-10-31 13:27:37",
+          "author": "Pick&Deal, gabriel@pickanddeal.fr",
+          "type": "comment",
+          "body": "<p>je reviens mi novembre pour poster des paniers</p>"
+        },
+        {
+          "date": "2026-10-31 13:28:01",
+          "author": "Pick&Deal, gabriel@pickanddeal.fr",
+          "type": "comment",
+          "body": "<p>elle ma aussi dit de tester sur une casquette dragon ball z de couleuir bleu si je voulais</p>"
         }
       ],
       "activities": [
@@ -4688,7 +4865,7 @@
           "summary": "To-Do",
           "note": false,
           "type": "To-Do",
-          "date_deadline": "2026-09-22",
+          "date_deadline": "2026-11-10",
           "created": "2026-04-08 20:16:25",
           "assigned_to": "gabriel@pickanddeal.fr"
         }
@@ -4764,7 +4941,7 @@
           "summary": "E-mail",
           "note": false,
           "type": "Email",
-          "date_deadline": "2026-09-29",
+          "date_deadline": "2026-10-31",
           "created": "2026-02-17 07:51:28",
           "assigned_to": "gabriel@pickanddeal.fr"
         }
@@ -4779,7 +4956,7 @@
       "phone": "+33 5 34 30 58 96",
       "stage_id": [
         13,
-        "PAS INTÉRESSÉ"
+        "PAS DE BESOINS"
       ],
       "probability": 98.48,
       "expected_revenue": 0.0,
@@ -5052,6 +5229,12 @@
           "author": "Pick&Deal, gabriel@pickanddeal.fr",
           "type": "comment",
           "body": "<p>Élodie n’est pas là. C’est maintenant son mari qui est là tous les mardis et jeudis, il ne gère pas du tout cette partie-là elle est là donc elle est mercredi vendredi, il faudrait que je l’appelle c’est surtout pour la mise en place des paniers surprise.</p>"
+        },
+        {
+          "date": "2026-10-31 13:26:32",
+          "author": "Pick&Deal, gabriel@pickanddeal.fr",
+          "type": "comment",
+          "body": "<p>je l'appelle lundi</p>"
         }
       ],
       "activities": [
@@ -5059,7 +5242,7 @@
           "summary": "Appeler",
           "note": false,
           "type": "Call",
-          "date_deadline": "2026-10-16",
+          "date_deadline": "2026-11-02",
           "created": "2026-04-09 15:56:44",
           "assigned_to": "gabriel@pickanddeal.fr"
         }
@@ -5074,7 +5257,7 @@
       "phone": "+33 6 69 92 11 54",
       "stage_id": [
         13,
-        "PAS INTÉRESSÉ"
+        "PAS DE BESOINS"
       ],
       "probability": 98.97,
       "expected_revenue": 0.0,
@@ -5271,7 +5454,7 @@
           "summary": "Appeler",
           "note": false,
           "type": "Call",
-          "date_deadline": "2026-10-05",
+          "date_deadline": "2026-11-04",
           "created": "2026-04-07 13:05:54",
           "assigned_to": "gabriel@pickanddeal.fr"
         }
@@ -5402,16 +5585,7 @@
           "body": "<div>PAS INTÉRESSÉ → <b>A REVOIR PLUS TARD</b> <i>(Étape)</i></div>"
         }
       ],
-      "activities": [
-        {
-          "summary": "Prendre nouvelle braderie septembre",
-          "note": false,
-          "type": "Call",
-          "date_deadline": "2026-10-20",
-          "created": "2026-04-04 17:59:21",
-          "assigned_to": "gabriel@pickanddeal.fr"
-        }
-      ]
+      "activities": []
     },
     {
       "id": 1,
@@ -5566,18 +5740,21 @@
           "author": "Pick&Deal, gabriel@pickanddeal.fr",
           "type": "notification",
           "body": "<div>\n    <p class=\"o_mail_activity_title\">\n        <span class=\"fa fa-check fa-fw\"></span><span>To-Do</span> terminée\n        <span>: </span><span>RDV VENDREDI A 15H</span>\n    </p>\n</div>"
+        },
+        {
+          "date": "2026-10-31 12:44:42",
+          "author": "Pick&Deal, gabriel@pickanddeal.fr",
+          "type": "comment",
+          "body": "<p>elle me ghoste depuis plusieurs jour je l'appelle presque tous les jour sans reponsde de sa part depuis 4 jours</p>"
+        },
+        {
+          "date": "2026-10-31 12:44:47",
+          "author": "Pick&Deal, gabriel@pickanddeal.fr",
+          "type": "notification",
+          "body": "<div>\n    <p class=\"o_mail_activity_title\">\n        <span class=\"fa fa-check fa-fw\"></span><span>To-Do</span> terminée\n        <span>: </span><span>To-Do</span>\n    </p>\n</div>"
         }
       ],
-      "activities": [
-        {
-          "summary": "To-Do",
-          "note": false,
-          "type": "To-Do",
-          "date_deadline": "2026-10-20",
-          "created": "2026-10-20 10:40:48",
-          "assigned_to": "gabriel@pickanddeal.fr"
-        }
-      ]
+      "activities": []
     }
   ]
 }
